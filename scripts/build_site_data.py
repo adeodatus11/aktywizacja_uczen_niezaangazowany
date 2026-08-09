@@ -101,8 +101,34 @@ def scenario_paths():
     }
 
 
+def scenario_sections(path):
+    if not path:
+        return {}
+    scenario_file = ROOT / path
+    if not scenario_file.exists():
+        return {}
+
+    sections = {}
+    current = None
+    buffer = []
+    for line in scenario_file.read_text(encoding="utf-8").splitlines():
+        if line.startswith("## "):
+            if current:
+                sections[current] = "\n".join(buffer).strip()
+            current = line[3:].strip()
+            buffer = []
+            continue
+        if current:
+            buffer.append(line)
+    if current:
+        sections[current] = "\n".join(buffer).strip()
+    return sections
+
+
 def enrich(row, scenarios):
     practice = practice_sentence(row)
+    scenario_path = scenarios.get(row["id"], "")
+    scenario = scenario_sections(scenario_path)
     intro = (
         f"Nie robimy tego jako szkolnego ćwiczenia dla samego ćwiczenia. "
         f"Waszym zadaniem jest konkretny wynik: {row['odpowiedz_po_co']} "
@@ -124,7 +150,15 @@ def enrich(row, scenarios):
         "jak_dzielic": group_instruction(row),
         "proponowany_przebieg": steps(row),
         "bezpieczenstwo_i_uwagi": f"{chaos_note(row['ryzyko_chaosu'])} Uwaga adaptacyjna: {row['adaptacja_bs_technikum']}. Ryzyka: {row['ryzyka']}.",
-        "scenario_path": scenarios.get(row["id"], ""),
+        "scenario_path": scenario_path,
+        "scenario_instruction": scenario.get("Instrukcja dla uczniów (do odczytania)", ""),
+        "scenario_materials": scenario.get("Materiały", ""),
+        "scenario_worksheet": scenario.get("Karta pracy / materiały uczniowskie", ""),
+        "scenario_flow": scenario.get("Przebieg 45 minut", ""),
+        "scenario_twist": scenario.get("Zwrot akcji", ""),
+        "scenario_scoring": scenario.get("Punktacja / kryterium sukcesu", ""),
+        "scenario_key": scenario.get("Klucz lub przykład dobrego rozwiązania", ""),
+        "scenario_notes": scenario.get("Uwagi dla nauczyciela", ""),
     }
 
 

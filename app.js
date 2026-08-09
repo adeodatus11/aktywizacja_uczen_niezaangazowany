@@ -29,6 +29,43 @@ function escapeHtml(value) {
     .replaceAll("'", "&#039;");
 }
 
+function markdownLite(value) {
+  let html = escapeHtml(value).trim();
+  if (!html) return "";
+
+  html = html
+    .replace(/^### (.*)$/gm, "<h5>$1</h5>")
+    .replace(/^## (.*)$/gm, "<h4>$1</h4>")
+    .replace(/`([^`]+)`/g, "<code>$1</code>")
+    .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+
+  const blocks = html.split(/\n{2,}/).map((block) => {
+    if (block.startsWith("<h")) return block;
+    if (block.includes("\n|") || block.startsWith("|")) return `<pre>${block}</pre>`;
+    if (block.startsWith("- ")) {
+      const items = block
+        .split("\n")
+        .map((line) => line.replace(/^- /, "").trim())
+        .filter(Boolean)
+        .map((line) => `<li>${line}</li>`)
+        .join("");
+      return `<ul>${items}</ul>`;
+    }
+    if (/^\d+\. /.test(block)) {
+      const items = block
+        .split("\n")
+        .map((line) => line.replace(/^\d+\. /, "").trim())
+        .filter(Boolean)
+        .map((line) => `<li>${line}</li>`)
+        .join("");
+      return `<ol>${items}</ol>`;
+    }
+    return `<p>${block.replace(/\n/g, "<br>")}</p>`;
+  });
+
+  return blocks.join("");
+}
+
 function populateStats() {
   totalCount.textContent = activities.length;
   strongCount.textContent = activities.filter((item) => item.status === "STRONG CANDIDATE").length;
@@ -65,7 +102,7 @@ function cardTemplate(activity) {
         <span>Hook: ${escapeHtml(activity.potencjal_zainteresowania)}/5</span>
         ${scenarioBadge}
       </div>
-      <button type="button" data-id="${escapeHtml(activity.id)}">Otwórz opis</button>
+      <button type="button" data-id="${escapeHtml(activity.id)}">Otwórz kartę</button>
     </article>
   `;
 }
@@ -114,6 +151,49 @@ function detailTemplate(activity) {
   const scenarioLink = activity.scenario_path
     ? `<a class="scenario-link" href="${escapeHtml(activity.scenario_path)}" target="_blank" rel="noopener">Otwórz pełny scenariusz</a>`
     : "";
+
+  if (activity.scenario_path && activity.scenario_worksheet) {
+    return `
+      <p class="id">${escapeHtml(activity.id)} | ${escapeHtml(activity.kategoria)}</p>
+      <h2 class="dialog-title">${escapeHtml(activity.robocza_nazwa)}</h2>
+      <p class="dialog-lead">${escapeHtml(activity.krotki_opis)}</p>
+      ${scenarioLink}
+      <div class="detail-grid">
+        <section class="detail-box wide">
+          <h4>Instrukcja dla uczniów</h4>
+          ${markdownLite(activity.scenario_instruction)}
+        </section>
+        <section class="detail-box">
+          <h4>Materiały</h4>
+          ${markdownLite(activity.scenario_materials)}
+        </section>
+        <section class="detail-box">
+          <h4>Zwrot akcji</h4>
+          ${markdownLite(activity.scenario_twist)}
+        </section>
+        <section class="detail-box wide">
+          <h4>Karta pracy / zasady gry</h4>
+          ${markdownLite(activity.scenario_worksheet)}
+        </section>
+        <section class="detail-box wide">
+          <h4>Przebieg 45 minut</h4>
+          ${markdownLite(activity.scenario_flow)}
+        </section>
+        <section class="detail-box">
+          <h4>Punktacja / kryterium sukcesu</h4>
+          ${markdownLite(activity.scenario_scoring)}
+        </section>
+        <section class="detail-box">
+          <h4>Klucz lub przykład dobrego rozwiązania</h4>
+          ${markdownLite(activity.scenario_key)}
+        </section>
+        <section class="detail-box wide">
+          <h4>Uwagi dla nauczyciela</h4>
+          ${markdownLite(activity.scenario_notes)}
+        </section>
+      </div>
+    `;
+  }
 
   return `
     <p class="id">${escapeHtml(activity.id)} | ${escapeHtml(activity.kategoria)}</p>
