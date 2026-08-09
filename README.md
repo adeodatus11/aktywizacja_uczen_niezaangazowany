@@ -6,3 +6,6 @@ Projekt roboczy dotyczacy aktywizacji ucznia niezaangazowanego.
 
 Zebranie materialow, koncepcji i narzedzi wspierajacych nauczycieli w pracy z uczniami o niskim poziomie zaangazowania.
 
+## Dokumenty robocze
+
+- [Plan kwerendy](PLAN_KWERENDY.md)
