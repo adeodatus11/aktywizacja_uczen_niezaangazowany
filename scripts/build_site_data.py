@@ -82,13 +82,51 @@ def group_instruction(row):
     return base + g16 + g30
 
 
+def readable_mechanism(value):
+    return value.replace("->", "→")
+
+
+def student_start(row):
+    categories = set(split_values(row["kategoria"]))
+    materials_text = row["materialy"].strip()
+    if materials_text.lower() in {"brak", "brak, tylko dostępne przedmioty"}:
+        materials_text = "kartka lub tablica do zapisania wyniku"
+
+    if categories & {"konstruowanie", "STEM", "konstrukcje", "optymalizacja"}:
+        opener = "Na stole macie prosty zestaw materiałów i test, który od razu pokaże, czy pomysł działa."
+    elif categories & {"pieniądze", "przedsiębiorczość"}:
+        opener = "Dostajecie sytuację z budżetem, kosztami i wyborem, którego nie da się rozwiązać samym przeczuciem."
+    elif categories & {"dedukcja", "escape room", "logika"}:
+        opener = "Dostajecie tropy, ograniczenia i limit czasu. Trzeba dojść do rozwiązania bez zgadywania."
+    elif categories & {"informacja", "fake news", "argumentacja"}:
+        opener = "Dostajecie materiały, które trzeba sprawdzić przed podjęciem decyzji albo podaniem ich dalej."
+    elif categories & {"negocjacje"}:
+        opener = "Każdy zespół ma interes do obrony, ale zasoby albo warunki nie wystarczą wszystkim po równo."
+    elif categories & {"planowanie", "życie zawodowe"}:
+        opener = "Dostajecie zadanie organizacyjne, w którym kolejność decyzji ma znaczenie."
+    elif categories & {"projektowanie", "problem solving"}:
+        opener = "Projektujecie rozwiązanie dla konkretnego użytkownika, a potem sprawdzacie, czy ono naprawdę działa."
+    elif categories & {"gry", "rywalizacja"}:
+        opener = "To krótka gra decyzyjna: wynik zależy od wyborów zespołu i reakcji na ruchy innych."
+    else:
+        opener = "Dostajecie zadanie z jasnym wynikiem i krótkim limitem czasu."
+
+    return (
+        f"{opener} Wasz cel: {row['odpowiedz_po_co']} "
+        f"Do pracy potrzebne będą: {materials_text}. "
+        "Na końcu zespół pokazuje wynik i jedno konkretne uzasadnienie swojej decyzji."
+    )
+
+
 def steps(row):
+    mechanism = readable_mechanism(row["glowny_mechanizm"])
     return [
-        f"Wyjaśnij misję i kryterium wyniku: {row['odpowiedz_po_co']}",
-        f"Podziel klasę na zespoły i rozdaj materiały: {row['materialy']}.",
-        f"Daj 2-3 minuty na szybki plan. Potem zespoły pracują według mechanizmu: {row['glowny_mechanizm']}.",
-        "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
-        f"Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia.",
+        f"0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: {row['odpowiedz_po_co']}",
+        f"5-8 min: podziel klasę na zespoły, rozdaj materiały i poproś o szybki plan pierwszego ruchu.",
+        f"8-25 min: zespoły pracują według rytmu: {mechanism}. Nauczyciel pilnuje czasu i limitów.",
+        f"25-32 min: wprowadź zmianę warunków: {row['przykladowy_zwrot_akcji']}. Zespoły poprawiają decyzję albo projekt.",
+        "32-42 min: zespoły testują, porównują albo prezentują wynik. Każdy wynik musi mieć krótkie uzasadnienie.",
+        "42-45 min: zapisz 1-2 najlepsze strategie na tablicy i nazwij, co zadziałało w praktyce.",
     ]
 
 
@@ -129,21 +167,15 @@ def enrich(row, scenarios):
     practice = practice_sentence(row)
     scenario_path = scenarios.get(row["id"], "")
     scenario = scenario_sections(scenario_path)
-    intro = (
-        f"Nie robimy tego jako szkolnego ćwiczenia dla samego ćwiczenia. "
-        f"Waszym zadaniem jest konkretny wynik: {row['odpowiedz_po_co']} "
-        "Liczy się decyzja, sposób pracy i to, czy efekt przejdzie sprawdzenie."
-    )
     teacher_description = (
-        f"{row['krotki_opis']} Nauczyciel prowadzi aktywność jako krótką misję z jasnym wynikiem, "
-        "a nie jako rozmowę o współpracy. Najpierw uczniowie dostają ograniczenie, potem działają w zespołach, "
-        "na końcu porównują rezultat z innymi zespołami albo z ustalonym kryterium."
+        f"{row['krotki_opis']} Prowadzenie opiera się na krótkim briefie, pracy zespołowej, "
+        "zwrocie akcji i sprawdzeniu wyniku pod koniec lekcji."
     )
     return {
         **row,
         "poziom_przygotowania_label": prep_label(row["poziom_przygotowania"]),
         "opis_aktywnosci": teacher_description,
-        "podprowadzajka": intro,
+        "podprowadzajka": student_start(row),
         "cel_dla_uczniow": row["odpowiedz_po_co"],
         "co_cwiczy": f"Aktywność ćwiczy {practice}.",
         "co_zabrac": materials(row),

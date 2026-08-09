@@ -208,7 +208,7 @@ function detailTemplate(activity) {
     ${scenarioLink}
     <div class="detail-grid">
       <section class="detail-box wide">
-        <h4>Podprowadzajka dla uczniów</h4>
+        <h4>Start dla uczniów</h4>
         <p>${escapeHtml(activity.podprowadzajka)}</p>
       </section>
       <section class="detail-box">

@@ -103,9 +103,9 @@ function renderTask(item) {
         ${detailSection("Klucz lub przykład dobrego rozwiązania", item.scenario_key)}
         ${detailSection("Uwagi dla nauczyciela", item.scenario_notes, true)}
       ` : `
-        ${detailSection("Podprowadzajka dla uczniów", item.podprowadzajka, true)}
+        ${detailSection("Start dla uczniów", item.podprowadzajka, true)}
         ${detailSection("Cel", item.cel_dla_uczniow)}
-        ${detailSection("Przebieg", item.proponowany_przebieg.join("\\n"), true)}
+        ${detailSection("Przebieg", item.proponowany_przebieg.map((step, index) => `${index + 1}. ${step}`).join("\n"), true)}
         ${detailSection("Zwrot akcji", item.przykladowy_zwrot_akcji)}
         ${detailSection("Uwagi dla BS I / technikum", item.bezpieczenstwo_i_uwagi)}
       `}
