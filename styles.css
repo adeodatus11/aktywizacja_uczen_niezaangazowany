@@ -148,15 +148,31 @@ a {
   color: var(--text);
 }
 
+.scenario-link {
+  display: inline-flex;
+  min-height: 42px;
+  align-items: center;
+  justify-content: center;
+  margin: 4px 0 18px;
+  padding: 0 14px;
+  border-radius: var(--radius);
+  background: var(--accent-dark);
+  color: #ffffff;
+  font-weight: 900;
+  text-decoration: none;
+}
+
 .button:hover,
 .quick-filters button:hover,
-.card button:hover {
+.card button:hover,
+.scenario-link:hover {
   transform: translateY(-1px);
 }
 
 .button:active,
 .quick-filters button:active,
-.card button:active {
+.card button:active,
+.scenario-link:active {
   transform: translateY(1px);
 }
 

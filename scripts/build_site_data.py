@@ -6,6 +6,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 INPUT = ROOT / "data" / "aktywnosci.csv"
 OUTPUT = ROOT / "site" / "activities.js"
+SCENARIOS = ROOT / "scenariusze"
 
 
 CATEGORY_HINTS = {
@@ -91,7 +92,16 @@ def steps(row):
     ]
 
 
-def enrich(row):
+def scenario_paths():
+    if not SCENARIOS.exists():
+        return {}
+    return {
+        path.name[:4]: str(path.relative_to(ROOT))
+        for path in sorted(SCENARIOS.glob("A*.md"))
+    }
+
+
+def enrich(row, scenarios):
     practice = practice_sentence(row)
     intro = (
         f"Nie robimy tego jako szkolnego ćwiczenia dla samego ćwiczenia. "
@@ -114,13 +124,15 @@ def enrich(row):
         "jak_dzielic": group_instruction(row),
         "proponowany_przebieg": steps(row),
         "bezpieczenstwo_i_uwagi": f"{chaos_note(row['ryzyko_chaosu'])} Uwaga adaptacyjna: {row['adaptacja_bs_technikum']}. Ryzyka: {row['ryzyka']}.",
+        "scenario_path": scenarios.get(row["id"], ""),
     }
 
 
 def main():
     with INPUT.open(newline="", encoding="utf-8") as handle:
         rows = list(csv.DictReader(handle, delimiter=";"))
-    enriched = [enrich(row) for row in rows]
+    scenarios = scenario_paths()
+    enriched = [enrich(row, scenarios) for row in rows]
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     payload = "window.ACTIVITIES = " + json.dumps(enriched, ensure_ascii=False, indent=2) + ";\n"
     OUTPUT.write_text(payload, encoding="utf-8")

@@ -14,6 +14,7 @@ Zebranie materiałów, koncepcji i narzędzi wspierających nauczycieli w pracy 
 - [Rejestr źródeł CSV](data/zrodla.csv)
 - [Notatki źródłowe](research/notatki_zrodlowe.md)
 - [Rankingi](rankingi/TOP.md)
+- [Indeks 80 gotowych scenariuszy](scenariusze/INDEX.md)
 
 ## Strona
 
@@ -21,4 +22,10 @@ Strona katalogu jest statyczna i działa lokalnie po otwarciu `index.html` albo 
 
 ```bash
 python3 scripts/build_site_data.py
+```
+
+Komplet 80 gotowych scenariuszy kontroluje walidator:
+
+```bash
+python3 scripts/validate_scenarios.py
 ```

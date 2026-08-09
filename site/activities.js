@@ -41,7 +41,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dać ton ekipy technicznej i pomiar wyniku. Ryzyka: cięcie taśmy, bałagan."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dać ton ekipy technicznej i pomiar wyniku. Ryzyka: cięcie taśmy, bałagan.",
+    "scenario_path": ""
   },
   {
     "id": "A002",
@@ -85,7 +86,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre dla technikum przez język konstrukcyjny. Ryzyka: upadek obciążenia."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre dla technikum przez język konstrukcyjny. Ryzyka: upadek obciążenia.",
+    "scenario_path": ""
   },
   {
     "id": "A003",
@@ -129,7 +131,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Mocno techniczne, mało szkolne. Ryzyka: spory o pomiar."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Mocno techniczne, mało szkolne. Ryzyka: spory o pomiar.",
+    "scenario_path": ""
   },
   {
     "id": "A004",
@@ -173,7 +176,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Dobre dla klas praktycznych, widac efekt. Ryzyka: chaos przy testach."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Dobre dla klas praktycznych, widac efekt. Ryzyka: chaos przy testach.",
+    "scenario_path": ""
   },
   {
     "id": "A005",
@@ -217,7 +221,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Pasuje do zawodowych skojarzeń z narzędziami. Ryzyka: rzucanie przedmiotami."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Pasuje do zawodowych skojarzeń z narzędziami. Ryzyka: rzucanie przedmiotami.",
+    "scenario_path": ""
   },
   {
     "id": "A006",
@@ -261,7 +266,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Proste, szybkie, z mierzalnym wynikiem. Ryzyka: latanie po sali."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Proste, szybkie, z mierzalnym wynikiem. Ryzyka: latanie po sali.",
+    "scenario_path": ""
   },
   {
     "id": "A007",
@@ -305,7 +311,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobry szybki test bez teorii fizyki. Ryzyka: bieganie po klasie."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobry szybki test bez teorii fizyki. Ryzyka: bieganie po klasie.",
+    "scenario_path": ""
   },
   {
     "id": "A008",
@@ -349,7 +356,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobre jako szybka rywalizacja. Ryzyka: ostroznie z nozyczkami."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobre jako szybka rywalizacja. Ryzyka: ostroznie z nozyczkami.",
+    "scenario_path": ""
   },
   {
     "id": "A009",
@@ -393,7 +401,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Dziala lepiej w sali z dostępem do wody. Ryzyka: rozlana woda."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Dziala lepiej w sali z dostępem do wody. Ryzyka: rozlana woda.",
+    "scenario_path": ""
   },
   {
     "id": "A010",
@@ -437,7 +446,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Atrakcyjne, ale wymaga jasnych zasad bezpieczeństwa. Ryzyka: strzelanie w ludzi."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Atrakcyjne, ale wymaga jasnych zasad bezpieczeństwa. Ryzyka: strzelanie w ludzi.",
+    "scenario_path": ""
   },
   {
     "id": "A011",
@@ -481,7 +491,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bardzo czytelny efekt dla technikum. Ryzyka: upadek obciążenia."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bardzo czytelny efekt dla technikum. Ryzyka: upadek obciążenia.",
+    "scenario_path": ""
   },
   {
     "id": "A012",
@@ -525,7 +536,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Zamiast jajka można użyć gumki, mniej balaganu. Ryzyka: bałagan przy jajku."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Zamiast jajka można użyć gumki, mniej balaganu. Ryzyka: bałagan przy jajku.",
+    "scenario_path": ""
   },
   {
     "id": "A013",
@@ -569,51 +581,53 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Dać klimat zadania technicznego. Ryzyka: hałas, chaos."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Dać klimat zadania technicznego. Ryzyka: hałas, chaos.",
+    "scenario_path": ""
   },
   {
     "id": "A014",
-    "robocza_nazwa": "Wieża z butów",
-    "krotki_opis": "Zespoły bez materiałów budują najwyższą stabilną wieżę z własnych butów lub plecaków, z zasadami higieny.",
-    "glowny_mechanizm": "zasób lokalny -> konstrukcja -> pomiar",
+    "robocza_nazwa": "Wieża z papieru",
+    "krotki_opis": "Zespoły budują bezpieczną wolnostojącą wieżę z papieru i taśmy. Wynik mierzy się wysokością, stabilnością i testem ciężaru.",
+    "glowny_mechanizm": "limit materiałów -> konstrukcja -> pomiar",
     "kategoria": "konstruowanie|rywalizacja",
     "kompetencje": "kreatywność|współpraca|planowanie",
     "liczba_osob": "16-30",
     "optymalna_wielkosc_zespolu": "4-5",
-    "czas": "15-20 min",
-    "materialy": "brak, tylko dostępne przedmioty",
-    "poziom_przygotowania": "0",
+    "czas": "35-45 min",
+    "materialy": "kartki A4, taśma, mały ciężar testowy",
+    "poziom_przygotowania": "1",
     "potencjal_zainteresowania": "4",
     "konkretnosc_efektu": "5",
     "rzeczywista_wspolpraca": "3",
     "grupa_16": "TAK",
     "grupa_30": "TAK",
-    "ryzyko_chaosu": "4",
+    "ryzyko_chaosu": "3",
     "zwrot_akcji_mozliwy": "TAK",
-    "przykladowy_zwrot_akcji": "po 5 min zakaz użycia jednego typu przedmiotu",
-    "odpowiedz_po_co": "Macie zbudować najwyższą stabilną konstrukcje z tego, co macie.",
+    "przykladowy_zwrot_akcji": "po 10 min dodać otwór przelotowy w konstrukcji",
+    "odpowiedz_po_co": "Macie zbudować najwyższą stabilną wieżę, która utrzyma mały ciężar.",
     "source_type": "team building",
     "zrodlo_inspiracji": "S015 Assessment build challenge",
     "url": "https://targetjobs.co.uk/careers-advice/interviews-and-assessment-centres/group-exercises-what-expect",
-    "adaptacja_bs_technikum": "Użyć tylko jesli klasa akceptuje, bez presji zdejmowania butów",
-    "ryzyka": "higiena, opór",
+    "adaptacja_bs_technikum": "Bez butów, plecaków i wspinania",
+    "ryzyka": "upadek lekkiej konstrukcji, spory o pomiar",
     "status": "Kandydat",
     "score": "16",
-    "poziom_przygotowania_label": "bez przygotowania",
-    "opis_aktywnosci": "Zespoły bez materiałów budują najwyższą stabilną wieżę z własnych butów lub plecaków, z zasadami higieny. Nauczyciel prowadzi aktywność jako krótką misję z jasnym wynikiem, a nie jako rozmowę o współpracy. Najpierw uczniowie dostają ograniczenie, potem działają w zespołach, na końcu porównują rezultat z innymi zespołami albo z ustalonym kryterium.",
-    "podprowadzajka": "Nie robimy tego jako szkolnego ćwiczenia dla samego ćwiczenia. Waszym zadaniem jest konkretny wynik: Macie zbudować najwyższą stabilną konstrukcje z tego, co macie. Liczy się decyzja, sposób pracy i to, czy efekt przejdzie sprawdzenie.",
-    "cel_dla_uczniow": "Macie zbudować najwyższą stabilną konstrukcje z tego, co macie.",
+    "poziom_przygotowania_label": "minimalne przygotowanie",
+    "opis_aktywnosci": "Zespoły budują bezpieczną wolnostojącą wieżę z papieru i taśmy. Wynik mierzy się wysokością, stabilnością i testem ciężaru. Nauczyciel prowadzi aktywność jako krótką misję z jasnym wynikiem, a nie jako rozmowę o współpracy. Najpierw uczniowie dostają ograniczenie, potem działają w zespołach, na końcu porównują rezultat z innymi zespołami albo z ustalonym kryterium.",
+    "podprowadzajka": "Nie robimy tego jako szkolnego ćwiczenia dla samego ćwiczenia. Waszym zadaniem jest konkretny wynik: Macie zbudować najwyższą stabilną wieżę, która utrzyma mały ciężar. Liczy się decyzja, sposób pracy i to, czy efekt przejdzie sprawdzenie.",
+    "cel_dla_uczniow": "Macie zbudować najwyższą stabilną wieżę, która utrzyma mały ciężar.",
     "co_cwiczy": "Aktywność ćwiczy działanie techniczne, szybkie prototypowanie i testowanie rozwiązania oraz priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
-    "co_zabrac": "Nic specjalnego. Wystarczy tablica lub kartka do zapisania wyniku.",
+    "co_zabrac": "Kartki A4, taśma, mały ciężar testowy.",
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
-      "Wyjaśnij misję i kryterium wyniku: Macie zbudować najwyższą stabilną konstrukcje z tego, co macie.",
-      "Podziel klasę na zespoły i rozdaj materiały: brak, tylko dostępne przedmioty.",
-      "Daj 2-3 minuty na szybki plan. Potem zespoły pracują według mechanizmu: zasób lokalny -> konstrukcja -> pomiar.",
+      "Wyjaśnij misję i kryterium wyniku: Macie zbudować najwyższą stabilną wieżę, która utrzyma mały ciężar.",
+      "Podziel klasę na zespoły i rozdaj materiały: kartki A4, taśma, mały ciężar testowy.",
+      "Daj 2-3 minuty na szybki plan. Potem zespoły pracują według mechanizmu: limit materiałów -> konstrukcja -> pomiar.",
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Użyć tylko jesli klasa akceptuje, bez presji zdejmowania butów. Ryzyka: higiena, opór."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bez butów, plecaków i wspinania. Ryzyka: upadek lekkiej konstrukcji, spory o pomiar.",
+    "scenario_path": "scenariusze/A014_wieza_z_papieru.md"
   },
   {
     "id": "A015",
@@ -657,7 +671,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre jako wariant wieży. Ryzyka: spory o test."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre jako wariant wieży. Ryzyka: spory o test.",
+    "scenario_path": ""
   },
   {
     "id": "A016",
@@ -701,7 +716,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Bardzo blisko życia uczniów. Ryzyka: tematy domowych pieniędzy."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Bardzo blisko życia uczniów. Ryzyka: tematy domowych pieniędzy.",
+    "scenario_path": "scenariusze/A016_kieszonkowy_budzet_miesiaca.md"
   },
   {
     "id": "A017",
@@ -745,7 +761,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Można użyć fikcyjnych ofert z realnym jezykiem. Ryzyka: reklama operatorów."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Można użyć fikcyjnych ofert z realnym jezykiem. Ryzyka: reklama operatorów.",
+    "scenario_path": "scenariusze/A017_najlepszy_abonament.md"
   },
   {
     "id": "A018",
@@ -789,7 +806,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Praktyczne dla uczniów branżowych. Ryzyka: może wymagać prostego wytłumaczenia składek."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Praktyczne dla uczniów branżowych. Ryzyka: może wymagać prostego wytłumaczenia składek.",
+    "scenario_path": "scenariusze/A018_wyplata_netto_sprint.md"
   },
   {
     "id": "A019",
@@ -833,7 +851,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Silny hook przez rzeczywistość. Ryzyka: tematy biedy trzeba neutralizować fikcyjnym profilem."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Silny hook przez rzeczywistość. Ryzyka: tematy biedy trzeba neutralizować fikcyjnym profilem.",
+    "scenario_path": "scenariusze/A019_awaria_budzetu.md"
   },
   {
     "id": "A020",
@@ -877,7 +896,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre dla technikum i BS przez praktyczny kontekst. Ryzyka: dominacja jednej osoby."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre dla technikum i BS przez praktyczny kontekst. Ryzyka: dominacja jednej osoby.",
+    "scenario_path": "scenariusze/A020_mini_firma_za_200_zl.md"
   },
   {
     "id": "A021",
@@ -921,7 +941,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobry most do zawodów usługowych. Ryzyka: możliwe żarty z cen."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobry most do zawodów usługowych. Ryzyka: możliwe żarty z cen.",
+    "scenario_path": "scenariusze/A021_kawiarenka_z_marza.md"
   },
   {
     "id": "A022",
@@ -965,7 +986,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Wymaga mocnego trzymania czasu. Ryzyka: hałas przy licytacji."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Wymaga mocnego trzymania czasu. Ryzyka: hałas przy licytacji.",
+    "scenario_path": "scenariusze/A022_licytacja_zasobow.md"
   },
   {
     "id": "A023",
@@ -1009,7 +1031,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Silne, ale wymaga jasnych zasad transakcji. Ryzyka: chaos i przekrzykiwanie."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Silne, ale wymaga jasnych zasad transakcji. Ryzyka: chaos i przekrzykiwanie.",
+    "scenario_path": "scenariusze/A023_rynek_wymiany.md"
   },
   {
     "id": "A024",
@@ -1053,7 +1076,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Fikcyjny profil chroni prywatność. Ryzyka: tematy pieniędzy."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Fikcyjny profil chroni prywatność. Ryzyka: tematy pieniędzy.",
+    "scenario_path": "scenariusze/A024_oszczednosciowy_zestaw_ratunkowy.md"
   },
   {
     "id": "A025",
@@ -1097,7 +1121,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Bardzo praktyczne dla nastolatków. Ryzyka: nie używać prawdziwych danych uczniów."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Bardzo praktyczne dla nastolatków. Ryzyka: nie używać prawdziwych danych uczniów.",
+    "scenario_path": "scenariusze/A025_detektor_oszustwa.md"
   },
   {
     "id": "A026",
@@ -1141,7 +1166,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobre na krótkie zastępstwo. Ryzyka: może być za spokojne."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobre na krótkie zastępstwo. Ryzyka: może być za spokojne.",
+    "scenario_path": "scenariusze/A026_subskrypcje_zjadaja_wyplate.md"
   },
   {
     "id": "A027",
@@ -1185,7 +1211,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Blisko realnych wyborów uczniów. Ryzyka: używać fikcyjnych ofert."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Blisko realnych wyborów uczniów. Ryzyka: używać fikcyjnych ofert.",
+    "scenario_path": "scenariusze/A027_zakup_telefonu_uzywanego.md"
   },
   {
     "id": "A028",
@@ -1229,7 +1256,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre dla klas logistycznych, transportowych. Ryzyka: spory o zasady mapy."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre dla klas logistycznych, transportowych. Ryzyka: spory o zasady mapy.",
+    "scenario_path": "scenariusze/A028_trasa_dostawy.md"
   },
   {
     "id": "A029",
@@ -1273,7 +1301,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Trzymać temat fikcyjny i techniczny. Ryzyka: nie wywoływać paniki realną szkołą."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Trzymać temat fikcyjny i techniczny. Ryzyka: nie wywoływać paniki realną szkołą.",
+    "scenario_path": "scenariusze/A029_ewakuacja_po_zmianie_planu.md"
   },
   {
     "id": "A030",
@@ -1317,7 +1346,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Bardzo dobre dla BS i technikum. Ryzyka: wymaga jasnego profilu zawodowego."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Bardzo dobre dla BS i technikum. Ryzyka: wymaga jasnego profilu zawodowego.",
+    "scenario_path": "scenariusze/A030_awaria_w_warsztacie.md"
   },
   {
     "id": "A031",
@@ -1361,7 +1391,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Zmienić realia na fikcyjne, nie kopiować listy dosłownie. Ryzyka: dominacja głośnych osób."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Zmienić realia na fikcyjne, nie kopiować listy dosłownie. Ryzyka: dominacja głośnych osób.",
+    "scenario_path": "scenariusze/A031_misja_ksiezycowa_15_rzeczy.md"
   },
   {
     "id": "A032",
@@ -1405,7 +1436,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Kandydaci fikcyjni, bez cech wrażliwych. Ryzyka: stereotypy przy rolach."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Kandydaci fikcyjni, bez cech wrażliwych. Ryzyka: stereotypy przy rolach.",
+    "scenario_path": "scenariusze/A032_baza_odcieta_od_swiata.md"
   },
   {
     "id": "A033",
@@ -1449,7 +1481,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobry wariant bez kosmosu. Ryzyka: może być zbyt abstrakcyjny."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobry wariant bez kosmosu. Ryzyka: może być zbyt abstrakcyjny.",
+    "scenario_path": "scenariusze/A033_pustynny_konwoj.md"
   },
   {
     "id": "A034",
@@ -1493,7 +1526,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Przedstawic jako gra decyzyjna, nie wakacyjna zabawa. Ryzyka: dominacja."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Przedstawic jako gra decyzyjna, nie wakacyjna zabawa. Ryzyka: dominacja.",
+    "scenario_path": "scenariusze/A034_wyspa_po_sztormie.md"
   },
   {
     "id": "A035",
@@ -1537,7 +1571,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Utrzymać fikcyjne, bez osobistych historii. Ryzyka: temat może być wrażliwy."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Utrzymać fikcyjne, bez osobistych historii. Ryzyka: temat może być wrażliwy.",
+    "scenario_path": "scenariusze/A035_szpital_polowy.md"
   },
   {
     "id": "A036",
@@ -1581,7 +1616,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Unikać makabry, dać temat pracowni. Ryzyka: nadmierne wczuwanie."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Unikać makabry, dać temat pracowni. Ryzyka: nadmierne wczuwanie.",
+    "scenario_path": "scenariusze/A036_zaginiony_prototyp.md"
   },
   {
     "id": "A037",
@@ -1625,7 +1661,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Świetne, bo każdy ma część rozwiązania. Ryzyka: frustracja słabszych czytelników."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Świetne, bo każdy ma część rozwiązania. Ryzyka: frustracja słabszych czytelników.",
+    "scenario_path": "scenariusze/A037_timeline_sledztwa.md"
   },
   {
     "id": "A038",
@@ -1669,7 +1706,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bez kłódek, tylko kod na kartce. Ryzyka: zbyt trudne zagadki."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bez kłódek, tylko kod na kartce. Ryzyka: zbyt trudne zagadki.",
+    "scenario_path": "scenariusze/A038_kod_do_sejfu.md"
   },
   {
     "id": "A039",
@@ -1713,7 +1751,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Wersja neutralna tematycznie, bez dziecinnej fabuły. Ryzyka: chaos przy podpowiedziach."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Wersja neutralna tematycznie, bez dziecinnej fabuły. Ryzyka: chaos przy podpowiedziach.",
+    "scenario_path": "scenariusze/A039_no_lock_escape_route.md"
   },
   {
     "id": "A040",
@@ -1757,7 +1796,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobrać łatwość do klasy, bez wiedzy matematycznej. Ryzyka: frustracja."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobrać łatwość do klasy, bez wiedzy matematycznej. Ryzyka: frustracja.",
+    "scenario_path": "scenariusze/A040_szyfr_kuriera.md"
   },
   {
     "id": "A041",
@@ -1801,7 +1841,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bardzo dobre na współpracę rzeczywista. Ryzyka: spory przy mapie."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bardzo dobre na współpracę rzeczywista. Ryzyka: spory przy mapie.",
+    "scenario_path": "scenariusze/A041_mapa_z_brakami.md"
   },
   {
     "id": "A042",
@@ -1845,7 +1886,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Temat neutralny, np. zaginiony klucz. Ryzyka: oskarzanie bez zasad."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Temat neutralny, np. zaginiony klucz. Ryzyka: oskarzanie bez zasad.",
+    "scenario_path": "scenariusze/A042_kto_ma_alibi.md"
   },
   {
     "id": "A043",
@@ -1889,7 +1931,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobrać poziom, unikać zbyt szkolnej matematyki. Ryzyka: jedną osoba może przejąć."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobrać poziom, unikać zbyt szkolnej matematyki. Ryzyka: jedną osoba może przejąć.",
+    "scenario_path": "scenariusze/A043_logiczna_siatka_z_presja_czasu.md"
   },
   {
     "id": "A044",
@@ -1933,7 +1976,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Wybierać zagadki bez makabry i infantylności. Ryzyka: może stać się zgadywanką."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Wybierać zagadki bez makabry i infantylności. Ryzyka: może stać się zgadywanką.",
+    "scenario_path": "scenariusze/A044_zagadka_bocznego_myslenia_jako_sledztwo.md"
   },
   {
     "id": "A045",
@@ -1977,7 +2021,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Można łączyć z fake news bez polityki. Ryzyka: zbyt trudne teksty."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Można łączyć z fake news bez polityki. Ryzyka: zbyt trudne teksty.",
+    "scenario_path": "scenariusze/A045_cztery_dowody_jeden_falszywy.md"
   },
   {
     "id": "A046",
@@ -2021,7 +2066,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Wybierać neutralne tematy, np. promocje, zdrowe produkty bez medycyny. Ryzyka: polaryzacja."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Wybierać neutralne tematy, np. promocje, zdrowe produkty bez medycyny. Ryzyka: polaryzacja.",
+    "scenario_path": "scenariusze/A046_fake_news_triage.md"
   },
   {
     "id": "A047",
@@ -2065,7 +2111,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Dobre jako gra o researchu bez moralizowania. Ryzyka: hałas licytacji."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Dobre jako gra o researchu bez moralizowania. Ryzyka: hałas licytacji.",
+    "scenario_path": "scenariusze/A047_aukcja_wiarygodnosci_zrodel.md"
   },
   {
     "id": "A048",
@@ -2109,7 +2156,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Uzywac neutralnych przykladow, np. technologia, sport. Ryzyka: polaryzacja."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Uzywac neutralnych przykladow, np. technologia, sport. Ryzyka: polaryzacja.",
+    "scenario_path": "scenariusze/A048_naglowek_kontra_tresc.md"
   },
   {
     "id": "A049",
@@ -2153,7 +2201,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dodać finalny werdykt, nie sama refleksję. Ryzyka: tematy wrażliwe."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dodać finalny werdykt, nie sama refleksję. Ryzyka: tematy wrażliwe.",
+    "scenario_path": "scenariusze/A049_zdjecie_bez_kontekstu.md"
   },
   {
     "id": "A050",
@@ -2197,7 +2246,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Brać lekkie tematy szkolne lub zawodowe. Ryzyka: debata może się rozgrzać."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Brać lekkie tematy szkolne lub zawodowe. Ryzyka: debata może się rozgrzać.",
+    "scenario_path": "scenariusze/A050_sad_nad_argumentem.md"
   },
   {
     "id": "A051",
@@ -2241,51 +2291,53 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Praktyczne, bez potrzeby wiedzy przedmiotowej. Ryzyka: może być zbyt papierowe."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Praktyczne, bez potrzeby wiedzy przedmiotowej. Ryzyka: może być zbyt papierowe.",
+    "scenario_path": "scenariusze/A051_drzewo_decyzji_zamknac_czy_naprawic.md"
   },
   {
     "id": "A052",
-    "robocza_nazwa": "SWOT kontra czas",
-    "krotki_opis": "Zespoły analizują pomysł na szkolną usługę metoda SWOT, a potem muszą zmienić go po pojawieniu się zagrożenia.",
+    "robocza_nazwa": "SWOT punktu śniadaniowego",
+    "krotki_opis": "Zespoły projektują jednodniowy szkolny punkt śniadaniowy za 300 zł, robią SWOT i poprawiają ofertę po wejściu konkurenta.",
     "glowny_mechanizm": "analiza -> korekta projektu -> pitch",
     "kategoria": "projektowanie|decyzje",
     "kompetencje": "analiza|kreatywność|argumentacja",
     "liczba_osob": "16-30",
     "optymalna_wielkosc_zespolu": "4-5",
-    "czas": "35-40 min",
-    "materialy": "kartka, tablica",
-    "poziom_przygotowania": "0",
+    "czas": "35-45 min",
+    "materialy": "kartka, tablica, cennik produktów",
+    "poziom_przygotowania": "1",
     "potencjal_zainteresowania": "4",
-    "konkretnosc_efektu": "3",
+    "konkretnosc_efektu": "4",
     "rzeczywista_wspolpraca": "3",
     "grupa_16": "TAK",
     "grupa_30": "TAK",
     "ryzyko_chaosu": "2",
     "zwrot_akcji_mozliwy": "TAK",
-    "przykladowy_zwrot_akcji": "po 12 min pojawia się konkurent",
-    "odpowiedz_po_co": "Macie poprawić pomysł tak, żeby przetrwał problem.",
+    "przykladowy_zwrot_akcji": "po 15 min samorząd otwiera konkurencyjny stolik z tostami",
+    "odpowiedz_po_co": "Macie poprawić punkt śniadaniowy tak, żeby zmieścił się w budżecie i przetrwał konkurencję.",
     "source_type": "metody aktywizujące",
     "zrodlo_inspiracji": "S023 CEO KOSS",
     "url": "https://koss.ceo.org.pl/dla-nauczycieli/uczyc-inaczej/artykuly/o-metodach-aktywizujacych-raz-jeszcze",
-    "adaptacja_bs_technikum": "Dobrze łączyć z biznesem",
-    "ryzyka": "może zejść w gadanie",
+    "adaptacja_bs_technikum": "Dobrze łączyć z biznesem i prostym liczeniem",
+    "ryzyka": "może zejść w gadanie bez cennika",
     "status": "Kandydat",
     "score": "14",
-    "poziom_przygotowania_label": "bez przygotowania",
-    "opis_aktywnosci": "Zespoły analizują pomysł na szkolną usługę metoda SWOT, a potem muszą zmienić go po pojawieniu się zagrożenia. Nauczyciel prowadzi aktywność jako krótką misję z jasnym wynikiem, a nie jako rozmowę o współpracy. Najpierw uczniowie dostają ograniczenie, potem działają w zespołach, na końcu porównują rezultat z innymi zespołami albo z ustalonym kryterium.",
-    "podprowadzajka": "Nie robimy tego jako szkolnego ćwiczenia dla samego ćwiczenia. Waszym zadaniem jest konkretny wynik: Macie poprawić pomysł tak, żeby przetrwał problem. Liczy się decyzja, sposób pracy i to, czy efekt przejdzie sprawdzenie.",
-    "cel_dla_uczniow": "Macie poprawić pomysł tak, żeby przetrwał problem.",
+    "poziom_przygotowania_label": "minimalne przygotowanie",
+    "opis_aktywnosci": "Zespoły projektują jednodniowy szkolny punkt śniadaniowy za 300 zł, robią SWOT i poprawiają ofertę po wejściu konkurenta. Nauczyciel prowadzi aktywność jako krótką misję z jasnym wynikiem, a nie jako rozmowę o współpracy. Najpierw uczniowie dostają ograniczenie, potem działają w zespołach, na końcu porównują rezultat z innymi zespołami albo z ustalonym kryterium.",
+    "podprowadzajka": "Nie robimy tego jako szkolnego ćwiczenia dla samego ćwiczenia. Waszym zadaniem jest konkretny wynik: Macie poprawić punkt śniadaniowy tak, żeby zmieścił się w budżecie i przetrwał konkurencję. Liczy się decyzja, sposób pracy i to, czy efekt przejdzie sprawdzenie.",
+    "cel_dla_uczniow": "Macie poprawić punkt śniadaniowy tak, żeby zmieścił się w budżecie i przetrwał konkurencję.",
     "co_cwiczy": "Aktywność ćwiczy tworzenie rozwiązania dla konkretnego użytkownika i szybki test.",
-    "co_zabrac": "Kartka, tablica.",
+    "co_zabrac": "Kartka, tablica, cennik produktów.",
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
-      "Wyjaśnij misję i kryterium wyniku: Macie poprawić pomysł tak, żeby przetrwał problem.",
-      "Podziel klasę na zespoły i rozdaj materiały: kartka, tablica.",
+      "Wyjaśnij misję i kryterium wyniku: Macie poprawić punkt śniadaniowy tak, żeby zmieścił się w budżecie i przetrwał konkurencję.",
+      "Podziel klasę na zespoły i rozdaj materiały: kartka, tablica, cennik produktów.",
       "Daj 2-3 minuty na szybki plan. Potem zespoły pracują według mechanizmu: analiza -> korekta projektu -> pitch.",
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobrze łączyć z biznesem. Ryzyka: może zejść w gadanie."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobrze łączyć z biznesem i prostym liczeniem. Ryzyka: może zejść w gadanie bez cennika.",
+    "scenario_path": "scenariusze/A052_swot_punkt_sniadaniowy.md"
   },
   {
     "id": "A053",
@@ -2329,7 +2381,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Silny dla technikum, wymaga jasnych ram. Ryzyka: nie przesadzać z tematami przemocy."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Silny dla technikum, wymaga jasnych ram. Ryzyka: nie przesadzać z tematami przemocy.",
+    "scenario_path": "scenariusze/A053_red_team_dyskoteki.md"
   },
   {
     "id": "A054",
@@ -2373,7 +2426,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dać konkretny profil i koszt, inaczej zbyt abstrakcyjne. Ryzyka: estetyka może zdominować funkcję."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dać konkretny profil i koszt, inaczej zbyt abstrakcyjne. Ryzyka: estetyka może zdominować funkcję.",
+    "scenario_path": "scenariusze/A054_projekt_lawki_przyszlosci.md"
   },
   {
     "id": "A055",
@@ -2417,7 +2471,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Wymagać konkretnego problemu, nie ladnego rysunku. Ryzyka: może być za warsztatowe."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Wymagać konkretnego problemu, nie ladnego rysunku. Ryzyka: może być za warsztatowe.",
+    "scenario_path": "scenariusze/A055_crazy_8s_produkt_do_plecaka.md"
   },
   {
     "id": "A056",
@@ -2461,7 +2516,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Pasuje do praktycznego profilu klas. Ryzyka: bałagan."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Pasuje do praktycznego profilu klas. Ryzyka: bałagan.",
+    "scenario_path": "scenariusze/A056_prototyp_organizera_lawki.md"
   },
   {
     "id": "A057",
@@ -2505,7 +2561,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Nie robić wystepow osobistych, tylko produkt. Ryzyka: zawstydzenie przy prezentacji."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Nie robić wystepow osobistych, tylko produkt. Ryzyka: zawstydzenie przy prezentacji.",
+    "scenario_path": "scenariusze/A057_reklama_produktu_bezuzytecznego.md"
   },
   {
     "id": "A058",
@@ -2549,7 +2606,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Bardzo bliskie realnej pracy. Ryzyka: może frustrowac bez limitu."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Bardzo bliskie realnej pracy. Ryzyka: może frustrowac bez limitu.",
+    "scenario_path": "scenariusze/A058_klient_zmienia_zdanie.md"
   },
   {
     "id": "A059",
@@ -2593,7 +2651,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobierać proste usługi, np. zamówienie jedzenia. Ryzyka: może być zbyt abstrakcyjne."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobierać proste usługi, np. zamówienie jedzenia. Ryzyka: może być zbyt abstrakcyjne.",
+    "scenario_path": "scenariusze/A059_mapa_drogi_zamowienia_bulki.md"
   },
   {
     "id": "A060",
@@ -2637,7 +2696,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Trzymać konkret i finalna poprawkę. Ryzyka: może pójść w wygłupy."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Trzymać konkret i finalna poprawkę. Ryzyka: może pójść w wygłupy.",
+    "scenario_path": "scenariusze/A060_najgorszy_plan_kolejki.md"
   },
   {
     "id": "A061",
@@ -2681,7 +2741,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre dla zawodowych realiów. Ryzyka: konflikt personalny."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre dla zawodowych realiów. Ryzyka: konflikt personalny.",
+    "scenario_path": "scenariusze/A061_kontrakt_dostawcy.md"
   },
   {
     "id": "A062",
@@ -2725,7 +2786,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bardzo szkolno-zawodowe. Ryzyka: spory między rolami."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bardzo szkolno-zawodowe. Ryzyka: spory między rolami.",
+    "scenario_path": "scenariusze/A062_podzial_warsztatu.md"
   },
   {
     "id": "A063",
@@ -2769,7 +2831,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Użyć fikcyjnego miasta, konkretne ceny. Ryzyka: spory o atrakcje."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Użyć fikcyjnego miasta, konkretne ceny. Ryzyka: spory o atrakcje.",
+    "scenario_path": "scenariusze/A063_budzet_wycieczki_kontra_rzeczywistosc.md"
   },
   {
     "id": "A064",
@@ -2813,7 +2876,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobrze dla starszych klas. Ryzyka: może wymagać moderacji."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobrze dla starszych klas. Ryzyka: może wymagać moderacji.",
+    "scenario_path": "scenariusze/A064_umowa_wspolnego_lokalu.md"
   },
   {
     "id": "A065",
@@ -2857,7 +2921,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Silne, ale wymaga czytelnych kart. Ryzyka: chaos transakcyjny."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Silne, ale wymaga czytelnych kart. Ryzyka: chaos transakcyjny.",
+    "scenario_path": "scenariusze/A065_dealerzy_informacji.md"
   },
   {
     "id": "A066",
@@ -2901,7 +2966,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Nie moralizować, pokazać strategie. Ryzyka: oskarzenia po zdradzie."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Nie moralizować, pokazać strategie. Ryzyka: oskarzenia po zdradzie.",
+    "scenario_path": "scenariusze/A066_dylemat_wspolnej_punktacji.md"
   },
   {
     "id": "A067",
@@ -2945,7 +3011,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre z rolami zawodowymi. Ryzyka: konflikt."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre z rolami zawodowymi. Ryzyka: konflikt.",
+    "scenario_path": "scenariusze/A067_negocjacje_ostatniego_zasobu.md"
   },
   {
     "id": "A068",
@@ -2989,7 +3056,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dodać konkretny scenariusz i wynik. Ryzyka: może się przeciągać."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dodać konkretny scenariusz i wynik. Ryzyka: może się przeciągać.",
+    "scenario_path": "scenariusze/A068_konsensus_bez_glosowania.md"
   },
   {
     "id": "A069",
@@ -3033,7 +3101,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Użyć schematów technicznych, nie obrazkow dzieciecych. Ryzyka: śmiech z rysunków."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Użyć schematów technicznych, nie obrazkow dzieciecych. Ryzyka: śmiech z rysunków.",
+    "scenario_path": ""
   },
   {
     "id": "A070",
@@ -3077,7 +3146,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bardzo mocna rzeczywista współpraca. Ryzyka: zawstydzenie osoby budujacej."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bardzo mocna rzeczywista współpraca. Ryzyka: zawstydzenie osoby budujacej.",
+    "scenario_path": ""
   },
   {
     "id": "A071",
@@ -3121,7 +3191,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre przy klasach gadatliwych, bo struktura wymusza role. Ryzyka: frustracja."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre przy klasach gadatliwych, bo struktura wymusza role. Ryzyka: frustracja.",
+    "scenario_path": "scenariusze/A071_radiooperator.md"
   },
   {
     "id": "A072",
@@ -3165,7 +3236,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bardzo mocne dla realnej współpracy. Ryzyka: trudność przygotowania kart."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bardzo mocne dla realnej współpracy. Ryzyka: trudność przygotowania kart.",
+    "scenario_path": "scenariusze/A072_split_blueprint.md"
   },
   {
     "id": "A073",
@@ -3209,7 +3281,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Bardzo dobre dla branżowej szkoły. Ryzyka: wymaga czytelnych kryteriów."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Bardzo dobre dla branżowej szkoły. Ryzyka: wymaga czytelnych kryteriów.",
+    "scenario_path": "scenariusze/A073_kontrola_jakosci.md"
   },
   {
     "id": "A074",
@@ -3253,7 +3326,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Świetne dla klas zawodowych. Ryzyka: hałas, bałagan."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Świetne dla klas zawodowych. Ryzyka: hałas, bałagan.",
+    "scenario_path": ""
   },
   {
     "id": "A075",
@@ -3297,7 +3371,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bardzo trafne dla technikum. Ryzyka: zbyt wiele kart może mylić."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bardzo trafne dla technikum. Ryzyka: zbyt wiele kart może mylić.",
+    "scenario_path": "scenariusze/A075_operatorzy_awarii.md"
   },
   {
     "id": "A076",
@@ -3341,7 +3416,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Pokazać jako narzędzie pracy, nie teoria. Ryzyka: może być suche."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Pokazać jako narzędzie pracy, nie teoria. Ryzyka: może być suche.",
+    "scenario_path": "scenariusze/A076_sprint_kanban_dzien_otwarty.md"
   },
   {
     "id": "A077",
@@ -3385,7 +3461,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobre dla starszych i technicznych klas. Ryzyka: może wydawac się biurowe."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobre dla starszych i technicznych klas. Ryzyka: może wydawac się biurowe.",
+    "scenario_path": "scenariusze/A077_planowanie_pokerem_remont_sali.md"
   },
   {
     "id": "A078",
@@ -3429,7 +3506,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Blisko codzienności, konkretny plan. Ryzyka: może zejść w narzekanie."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Blisko codzienności, konkretny plan. Ryzyka: może zejść w narzekanie.",
+    "scenario_path": "scenariusze/A078_misja_naprawic_szkolny_automat.md"
   },
   {
     "id": "A079",
@@ -3473,7 +3551,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobre dla klas logistycznych, usługowych. Ryzyka: wymaga dobrego scenariusza."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobre dla klas logistycznych, usługowych. Ryzyka: wymaga dobrego scenariusza.",
+    "scenario_path": "scenariusze/A079_naprawa_procesu_zamowien.md"
   },
   {
     "id": "A080",
@@ -3517,7 +3596,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bardzo praktyczne dla zawodów technicznych. Ryzyka: śmiech z błędów."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bardzo praktyczne dla zawodów technicznych. Ryzyka: śmiech z błędów.",
+    "scenario_path": ""
   },
   {
     "id": "A081",
@@ -3561,7 +3641,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Można dopasować do zawodu klasy. Ryzyka: jedną osoba może ułożyć sama."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Można dopasować do zawodu klasy. Ryzyka: jedną osoba może ułożyć sama.",
+    "scenario_path": "scenariusze/A081_puzzle_produkcja_kanapek.md"
   },
   {
     "id": "A082",
@@ -3605,7 +3686,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Nie robić jako zabawy, tylko symulacje awarii łączności. Ryzyka: może być śmieszne."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Nie robić jako zabawy, tylko symulacje awarii łączności. Ryzyka: może być śmieszne.",
+    "scenario_path": "scenariusze/A082_cichy_ranking_awaria_plecaka.md"
   },
   {
     "id": "A083",
@@ -3649,7 +3731,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Wymusza udzial wszystkich. Ryzyka: chaos przy zmianach."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania. Uwaga adaptacyjna: Wymusza udzial wszystkich. Ryzyka: chaos przy zmianach.",
+    "scenario_path": ""
   },
   {
     "id": "A084",
@@ -3693,7 +3776,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre, gdy materiał jest bardzo konkretny. Ryzyka: ryzyko, że ekspert nie zrozumie."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre, gdy materiał jest bardzo konkretny. Ryzyka: ryzyko, że ekspert nie zrozumie.",
+    "scenario_path": "scenariusze/A084_jigsaw_instrukcja_reklamacji.md"
   },
   {
     "id": "A085",
@@ -3737,7 +3821,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dodać konkretną misje, nie tylko pytania. Ryzyka: stres u wylosowanych."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dodać konkretną misje, nie tylko pytania. Ryzyka: stres u wylosowanych.",
+    "scenario_path": "scenariusze/A085_numbered_heads_awaria_wody.md"
   },
   {
     "id": "A086",
@@ -3781,7 +3866,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Użyć konkretnych problemów, np. organizacja wydarzenia. Ryzyka: może być za warsztatowe."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Użyć konkretnych problemów, np. organizacja wydarzenia. Ryzyka: może być za warsztatowe.",
+    "scenario_path": "scenariusze/A086_graffiti_dzien_otwarty.md"
   },
   {
     "id": "A087",
@@ -3825,7 +3911,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Użyć problemów fikcyjnych, nie osobistych. Ryzyka: ruch i hałas."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Użyć problemów fikcyjnych, nie osobistych. Ryzyka: ruch i hałas.",
+    "scenario_path": "scenariusze/A087_speed_dating_problemow_technicznych.md"
   },
   {
     "id": "A088",
@@ -3869,7 +3956,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Wymagać kryteriów, nie konkursu popularności. Ryzyka: zawstydzenie przy prezentacji."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Wymagać kryteriów, nie konkursu popularności. Ryzyka: zawstydzenie przy prezentacji.",
+    "scenario_path": "scenariusze/A088_debata_ofert_strefa_ciszy.md"
   },
   {
     "id": "A089",
@@ -3913,7 +4001,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre na zastępstwo, łatwe do prowadzenia. Ryzyka: powierzchowność decyzji."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre na zastępstwo, łatwe do prowadzenia. Ryzyka: powierzchowność decyzji.",
+    "scenario_path": "scenariusze/A089_turniej_mini_caseow.md"
   },
   {
     "id": "A090",
@@ -3957,7 +4046,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bardzo mocne przez koszt i test. Ryzyka: spory o zakupy."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bardzo mocne przez koszt i test. Ryzyka: spory o zakupy.",
+    "scenario_path": ""
   },
   {
     "id": "A091",
@@ -4001,7 +4091,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre dla technikum ekonomicznego, budowlanego, uslugowego. Ryzyka: subiektywność oceny."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Dobre dla technikum ekonomicznego, budowlanego, uslugowego. Ryzyka: subiektywność oceny.",
+    "scenario_path": "scenariusze/A091_przetarg_na_kacik_ladowania.md"
   },
   {
     "id": "A092",
@@ -4045,7 +4136,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobierać lekkie tematy, np. strefa odpoczynku. Ryzyka: może zejść w narzekanie."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobierać lekkie tematy, np. strefa odpoczynku. Ryzyka: może zejść w narzekanie.",
+    "scenario_path": "scenariusze/A092_mapa_interesariuszy_strefa_odpoczynku.md"
   },
   {
     "id": "A093",
@@ -4089,7 +4181,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Uczniowie tworzą dla rówieśników, mocny hook. Ryzyka: możliwe zbyt trudne zagadki."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Uczniowie tworzą dla rówieśników, mocny hook. Ryzyka: możliwe zbyt trudne zagadki.",
+    "scenario_path": "scenariusze/A093_escape_mapa_sekretariatu.md"
   },
   {
     "id": "A094",
@@ -4133,7 +4226,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobre, gdy klasa lubi praktyczne tworzenie. Ryzyka: ocena estetyczna."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobre, gdy klasa lubi praktyczne tworzenie. Ryzyka: ocena estetyczna.",
+    "scenario_path": "scenariusze/A094_projekt_plakatu_ostrzegawczego.md"
   },
   {
     "id": "A095",
@@ -4177,7 +4271,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Praktyczne dla każdego zawodu. Ryzyka: może być za pisemne."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Praktyczne dla każdego zawodu. Ryzyka: może być za pisemne.",
+    "scenario_path": "scenariusze/A095_wiadomosc_kryzysowa_160_znakow.md"
   },
   {
     "id": "A096",
@@ -4221,7 +4316,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Silny dla nastolatków, bo znają media. Ryzyka: ryzyko hejtu, trzymać fikcję."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Silny dla nastolatków, bo znają media. Ryzyka: ryzyko hejtu, trzymać fikcję.",
+    "scenario_path": "scenariusze/A096_kryzys_w_social_media.md"
   },
   {
     "id": "A097",
@@ -4265,7 +4361,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Bliskie realnym zakupom. Ryzyka: trzeba pilnować neutralności marek."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Bliskie realnym zakupom. Ryzyka: trzeba pilnować neutralności marek.",
+    "scenario_path": "scenariusze/A097_turniej_decyzji_klienta.md"
   },
   {
     "id": "A098",
@@ -4309,7 +4406,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dostosować narzędzia do profilu klasy. Ryzyka: może wymagać znajomości zawodu."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dostosować narzędzia do profilu klasy. Ryzyka: może wymagać znajomości zawodu.",
+    "scenario_path": "scenariusze/A098_ranking_narzedzi_do_misji.md"
   },
   {
     "id": "A099",
@@ -4353,7 +4451,8 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobre bez budowania fizycznego. Ryzyka: jedną osoba może przejąć."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobre bez budowania fizycznego. Ryzyka: jedną osoba może przejąć.",
+    "scenario_path": "scenariusze/A099_napraw_projekt_po_tescie.md"
   },
   {
     "id": "A100",
@@ -4397,6 +4496,7 @@ window.ACTIVITIES = [
       "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
-    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bardzo zgodne z briefem, dobra aktywność pokazowa. Ryzyka: wymaga dobrze przygotowanych kart."
+    "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu. Uwaga adaptacyjna: Bardzo zgodne z briefem, dobra aktywność pokazowa. Ryzyka: wymaga dobrze przygotowanych kart.",
+    "scenario_path": "scenariusze/A100_final_boss_misja_5000_zl.md"
   }
 ];

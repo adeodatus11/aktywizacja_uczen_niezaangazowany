@@ -49,6 +49,7 @@ function populateCategories() {
 
 function cardTemplate(activity) {
   const status = activity.status === "STRONG CANDIDATE" ? "Strong" : "Kandydat";
+  const scenarioBadge = activity.scenario_path ? '<span>Scenariusz: gotowy</span>' : "";
   return `
     <article class="card">
       <div class="card-header">
@@ -62,8 +63,9 @@ function cardTemplate(activity) {
         <span>Grupa: ${escapeHtml(activity.optymalna_wielkosc_zespolu)} os.</span>
         <span>Prep: ${escapeHtml(activity.poziom_przygotowania_label)}</span>
         <span>Hook: ${escapeHtml(activity.potencjal_zainteresowania)}/5</span>
+        ${scenarioBadge}
       </div>
-      <button type="button" data-id="${escapeHtml(activity.id)}">Otworz opis</button>
+      <button type="button" data-id="${escapeHtml(activity.id)}">Otwórz opis</button>
     </article>
   `;
 }
@@ -109,11 +111,15 @@ function detailTemplate(activity) {
   const steps = activity.proponowany_przebieg
     .map((step) => `<li>${escapeHtml(step)}</li>`)
     .join("");
+  const scenarioLink = activity.scenario_path
+    ? `<a class="scenario-link" href="${escapeHtml(activity.scenario_path)}" target="_blank" rel="noopener">Otwórz pełny scenariusz</a>`
+    : "";
 
   return `
     <p class="id">${escapeHtml(activity.id)} | ${escapeHtml(activity.kategoria)}</p>
     <h2 class="dialog-title">${escapeHtml(activity.robocza_nazwa)}</h2>
     <p class="dialog-lead">${escapeHtml(activity.opis_aktywnosci)}</p>
+    ${scenarioLink}
     <div class="detail-grid">
       <section class="detail-box wide">
         <h4>Podprowadzajka dla uczniów</h4>
