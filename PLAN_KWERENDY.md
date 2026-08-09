@@ -1,4 +1,4 @@
-# Plan kwerendy: aktywizacja ucznia niezaangazowanego
+# Plan kwerendy: Misje na 45 minut
 
 ## Cel projektu
 
@@ -270,4 +270,3 @@ Pierwsza wersja kwerendy jest gotowa, gdy:
 3. Zebrac pierwsza pule 30-40 kandydatow z roznorodnych zrodel.
 4. Przetestowac format rekordu na kilku przykladach.
 5. Dopiero potem skalowac baze do 100+ rekordow.
-

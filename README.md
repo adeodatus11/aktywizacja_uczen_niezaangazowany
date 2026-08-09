@@ -1,6 +1,6 @@
-# Aktywizacja ucznia niezaangazowanego
+# Misje na 45 minut
 
-Projekt roboczy dotyczacy aktywizacji ucznia niezaangazowanego.
+Projekt roboczy dotyczacy misji i wyzwan na jednorazowe lekcje zastepcze.
 
 ## Cel
 
