@@ -165,6 +165,7 @@ a {
 .button:hover,
 .quick-filters button:hover,
 .card button:hover,
+.card-action:hover,
 .scenario-link:hover {
   transform: translateY(-1px);
 }
@@ -172,6 +173,7 @@ a {
 .button:active,
 .quick-filters button:active,
 .card button:active,
+.card-action:active,
 .scenario-link:active {
   transform: translateY(1px);
 }
@@ -378,13 +380,19 @@ a:focus-visible {
   font-weight: 800;
 }
 
-.card button {
+.card button,
+.card-action {
   align-self: end;
   min-height: 42px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   border: 0;
+  border-radius: var(--radius);
   background: var(--accent);
   color: #ffffff;
   font-weight: 900;
+  text-decoration: none;
   cursor: pointer;
 }
 
@@ -424,7 +432,8 @@ a:focus-visible {
   color: var(--muted);
 }
 
-.ranking-grid button {
+.ranking-grid button,
+.ranking-grid a {
   padding: 0;
   border: 0;
   background: transparent;
@@ -432,10 +441,12 @@ a:focus-visible {
   font: inherit;
   font-weight: 800;
   text-align: left;
+  text-decoration: none;
   cursor: pointer;
 }
 
-.ranking-grid button:hover {
+.ranking-grid button:hover,
+.ranking-grid a:hover {
   text-decoration: underline;
   text-underline-offset: 4px;
 }
@@ -561,6 +572,60 @@ a:focus-visible {
   color: #eef5ee;
 }
 
+.task-page {
+  padding: clamp(30px, 5vw, 68px) clamp(18px, 4vw, 56px);
+}
+
+.task-hero {
+  max-width: 1080px;
+  margin: 0 auto 28px;
+}
+
+.task-hero h1 {
+  max-width: 960px;
+  margin: 0;
+  font-size: clamp(2.7rem, 7vw, 5.8rem);
+  line-height: 0.98;
+}
+
+.task-hero > p:not(.eyebrow) {
+  max-width: 760px;
+  color: var(--muted);
+  font-size: 1.12rem;
+}
+
+.task-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 22px 0;
+}
+
+.task-meta {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 10px;
+  margin-top: 22px;
+}
+
+.task-meta span {
+  min-height: 58px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--text);
+  font-weight: 800;
+}
+
+.task-content {
+  max-width: 1080px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  margin: 0 auto;
+}
+
 .footer-inner {
   display: flex;
   align-items: center;
@@ -677,7 +742,8 @@ a:focus-visible {
   .cards,
   .ranking-grid,
   .method-strip,
-  .detail-grid {
+  .detail-grid,
+  .task-content {
     grid-template-columns: 1fr;
   }
 

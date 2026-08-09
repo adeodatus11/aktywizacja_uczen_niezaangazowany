@@ -81,7 +81,7 @@
 
       document.querySelector("#scenarioList").innerHTML = scenarios
         .map((activity) => {
-          const href = activity.scenario_path.replace(/^scenariusze\//, "");
+          const href = `../zadanie.html?id=${encodeURIComponent(activity.id)}`;
           return `<li><a href="${href}">${activity.id} | ${activity.robocza_nazwa}</a></li>`;
         })
         .join("");

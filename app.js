@@ -66,6 +66,10 @@ function markdownLite(value) {
   return blocks.join("");
 }
 
+function activityUrl(activity) {
+  return `zadanie.html?id=${encodeURIComponent(activity.id)}`;
+}
+
 function populateStats() {
   totalCount.textContent = activities.length;
   strongCount.textContent = activities.filter((item) => item.status === "STRONG CANDIDATE").length;
@@ -87,6 +91,7 @@ function populateCategories() {
 function cardTemplate(activity) {
   const status = activity.status === "STRONG CANDIDATE" ? "Strong" : "Kandydat";
   const scenarioBadge = activity.scenario_path ? '<span>Scenariusz: gotowy</span>' : "";
+  const actionLabel = activity.scenario_path ? "Czytaj szczegóły" : "Zobacz opis";
   return `
     <article class="card">
       <div class="card-header">
@@ -95,6 +100,7 @@ function cardTemplate(activity) {
       </div>
       <h3>${escapeHtml(activity.robocza_nazwa)}</h3>
       <p>${escapeHtml(activity.krotki_opis)}</p>
+      <p class="card-materials"><strong>Co zabrać:</strong> ${escapeHtml(activity.co_zabrac)}</p>
       <div class="meta-grid">
         <span>Czas: ${escapeHtml(activity.czas)}</span>
         <span>Grupa: ${escapeHtml(activity.optymalna_wielkosc_zespolu)} os.</span>
@@ -102,7 +108,7 @@ function cardTemplate(activity) {
         <span>Hook: ${escapeHtml(activity.potencjal_zainteresowania)}/5</span>
         ${scenarioBadge}
       </div>
-      <button type="button" data-id="${escapeHtml(activity.id)}">Otwórz kartę</button>
+      <a class="card-action" href="${escapeHtml(activityUrl(activity))}">${escapeHtml(actionLabel)}</a>
     </article>
   `;
 }
@@ -149,7 +155,7 @@ function detailTemplate(activity) {
     .map((step) => `<li>${escapeHtml(step)}</li>`)
     .join("");
   const scenarioLink = activity.scenario_path
-    ? `<a class="scenario-link" href="${escapeHtml(activity.scenario_path)}" target="_blank" rel="noopener">Otwórz pełny scenariusz</a>`
+    ? `<a class="scenario-link" href="${escapeHtml(activityUrl(activity))}">Czytaj szczegóły zadania</a>`
     : "";
 
   if (activity.scenario_path && activity.scenario_worksheet) {
@@ -249,7 +255,7 @@ function renderRanking(target, ids) {
     .map((id) => {
       const activity = byId.get(id);
       if (!activity) return "";
-      return `<li><button type="button" data-rank-id="${escapeHtml(id)}">${escapeHtml(id)} ${escapeHtml(activity.robocza_nazwa)}</button></li>`;
+      return `<li><a href="${escapeHtml(activityUrl(activity))}">${escapeHtml(id)} ${escapeHtml(activity.robocza_nazwa)}</a></li>`;
     })
     .join("");
 }
@@ -284,14 +290,6 @@ document.querySelector("#filters").addEventListener("input", () => {
 document.querySelector(".quick-filters").addEventListener("click", (event) => {
   const button = event.target.closest("button[data-quick]");
   if (button) applyQuickFilter(button.dataset.quick);
-});
-grid.addEventListener("click", (event) => {
-  const button = event.target.closest("button[data-id]");
-  if (button) openActivity(button.dataset.id);
-});
-document.querySelector("#rankingi").addEventListener("click", (event) => {
-  const button = event.target.closest("button[data-rank-id]");
-  if (button) openActivity(button.dataset.rankId);
 });
 closeDialog.addEventListener("click", () => dialog.close());
 dialog.addEventListener("click", (event) => {
