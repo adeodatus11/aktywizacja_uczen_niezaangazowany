@@ -364,6 +364,22 @@ a:focus-visible {
   color: var(--muted);
 }
 
+.card-materials {
+  display: grid;
+  gap: 8px;
+  color: var(--text);
+}
+
+.materials-list {
+  margin: 0;
+  padding-left: 20px;
+  color: var(--muted);
+}
+
+.materials-list li {
+  margin-bottom: 5px;
+}
+
 .meta-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);

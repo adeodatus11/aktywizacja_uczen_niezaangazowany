@@ -33,6 +33,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zbudować najwyższą wieżę, która naprawdę ustoi.",
     "co_cwiczy": "Aktywność ćwiczy działanie techniczne, szybkie prototypowanie i testowanie rozwiązania oraz priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Kartki A4, taśma, nożyczki.",
+    "lista_potrzebnych_rzeczy": [
+      "Kartki A4: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Taśma: 1 rolka na 2 zespoły albo paski odmierzone przed lekcją.",
+      "Nożyczki: 1 para na zespół.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zbudować najwyższą wieżę, która naprawdę ustoi.",
@@ -87,6 +94,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie sprawdzić, czy wasz most utrzyma realny ciężar.",
     "co_cwiczy": "Aktywność ćwiczy działanie techniczne, szybkie prototypowanie i testowanie rozwiązania, tworzenie rozwiązania dla konkretnego użytkownika i szybki test oraz systematyczne myślenie i pracę na ograniczeniach.",
     "co_zabrac": "Papier, taśma, monety lub książki.",
+    "lista_potrzebnych_rzeczy": [
+      "Papier: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Taśma: 1 rolka na 2 zespoły albo paski odmierzone przed lekcją.",
+      "Monety: 10-20 sztuk do testu, liczenia albo jako obciążenie.",
+      "Książki: 2-4 sztuki jako obciążenie lub podpory testowe.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie sprawdzić, czy wasz most utrzyma realny ciężar.",
@@ -141,6 +156,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie uzyskać najdłuższy stabilny wysięgnik.",
     "co_cwiczy": "Aktywność ćwiczy działanie techniczne, szybkie prototypowanie i testowanie rozwiązania oraz priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Papier, taśma, linijka.",
+    "lista_potrzebnych_rzeczy": [
+      "Papier: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Taśma: 1 rolka na 2 zespoły albo paski odmierzone przed lekcją.",
+      "Linijka: 1 sztuka dla nauczyciela do pomiaru albo 1 na zespół przy pracy równoległej.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie uzyskać najdłuższy stabilny wysięgnik.",
@@ -195,6 +217,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie spowolnić przejazd i wygrać czasem toru.",
     "co_cwiczy": "Aktywność ćwiczy priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Papier, taśma, kulka lub zwitek papieru.",
+    "lista_potrzebnych_rzeczy": [
+      "Papier: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Taśma: 1 rolka na 2 zespoły albo paski odmierzone przed lekcją.",
+      "Kulka: 1 sztuka na zespół plus 1 zapasowa.",
+      "Zwitek papieru: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji.",
+      "Miejsce do testu: wyznacz jedną kolejkę albo strefę pokazową, żeby zespoły nie testowały naraz."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie spowolnić przejazd i wygrać czasem toru.",
@@ -249,6 +280,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zbudować chwytak, który faktycznie podniesie cel.",
     "co_cwiczy": "Aktywność ćwiczy działanie techniczne, szybkie prototypowanie i testowanie rozwiązania oraz tworzenie rozwiązania dla konkretnego użytkownika i szybki test.",
     "co_zabrac": "Papier, taśma, mały przedmiot.",
+    "lista_potrzebnych_rzeczy": [
+      "Papier: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Taśma: 1 rolka na 2 zespoły albo paski odmierzone przed lekcją.",
+      "Mały przedmiot: 1 sztuka na zespół jako obiekt testowy.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zbudować chwytak, który faktycznie podniesie cel.",
@@ -303,6 +341,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie dostarczyć ładunek dalej albo celniej niż inni.",
     "co_cwiczy": "Aktywność ćwiczy tworzenie rozwiązania dla konkretnego użytkownika i szybki test.",
     "co_zabrac": "Papier, spinacze lub monety.",
+    "lista_potrzebnych_rzeczy": [
+      "Papier: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Spinacze: 20-30 sztuk do budowania, oznaczania albo dociążenia pracy zespołów.",
+      "Monety: 10-20 sztuk do testu, liczenia albo jako obciążenie.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie dostarczyć ładunek dalej albo celniej niż inni.",
@@ -357,6 +402,12 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zrobić wirnik, który najdłużej utrzyma się w powietrzu.",
     "co_cwiczy": "Aktywność ćwiczy eksperymentowanie, mierzenie wyniku i wyciąganie wniosków z testu.",
     "co_zabrac": "Papier, nożyczki, stoper.",
+    "lista_potrzebnych_rzeczy": [
+      "Papier: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Nożyczki: 1 para na zespół.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zrobić wirnik, który najdłużej utrzyma się w powietrzu.",
@@ -411,6 +462,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie wycisnąć maksymalny wynik z jednej kartki.",
     "co_cwiczy": "Aktywność ćwiczy działanie techniczne, szybkie prototypowanie i testowanie rozwiązania oraz priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Jedną kartka, nożyczki, taśma opcjonalnie.",
+    "lista_potrzebnych_rzeczy": [
+      "Jedną kartka: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Nożyczki: 1 para na zespół.",
+      "Taśma opcjonalnie: 1 rolka na 2 zespoły albo paski odmierzone przed lekcją.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie wycisnąć maksymalny wynik z jednej kartki.",
@@ -465,6 +523,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zrobić łódkę, która utrzyma największy ładunek.",
     "co_cwiczy": "Aktywność ćwiczy działanie techniczne, szybkie prototypowanie i testowanie rozwiązania.",
     "co_zabrac": "Folia, miska z woda, monety.",
+    "lista_potrzebnych_rzeczy": [
+      "Folia: kawałek ok. A4 na zespół plus zapas do drugiej próby.",
+      "Miska z woda: 1 stanowisko testowe z wodą; ustaw je z dala od elektroniki.",
+      "Monety: 10-20 sztuk do testu, liczenia albo jako obciążenie.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji.",
+      "Miejsce do testu: wyznacz jedną kolejkę albo strefę pokazową, żeby zespoły nie testowały naraz."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach działa warunkowo: ogranicz ruch po sali i testuj zespoły po kolei.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zrobić łódkę, która utrzyma największy ładunek.",
@@ -519,6 +585,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zbudować wyrzutnię i trafić w cel.",
     "co_cwiczy": "Aktywność ćwiczy działanie techniczne, szybkie prototypowanie i testowanie rozwiązania, strategię, wynik i uczenie się przez konsekwencje decyzji oraz tworzenie rozwiązania dla konkretnego użytkownika i szybki test.",
     "co_zabrac": "Gumki, patyczki, łyżki, papier.",
+    "lista_potrzebnych_rzeczy": [
+      "Gumki: kilka sztuk na zespół.",
+      "Patyczki: po 1-3 sztuki na zespół, zależnie od wariantu zadania.",
+      "Łyżki: po 1-3 sztuki na zespół, zależnie od wariantu zadania.",
+      "Papier: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji.",
+      "Miejsce do testu: wyznacz jedną kolejkę albo strefę pokazową, żeby zespoły nie testowały naraz."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zbudować wyrzutnię i trafić w cel.",
@@ -573,6 +648,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zbudować podest, który naprawdę utrzyma ciężar.",
     "co_cwiczy": "Aktywność ćwiczy działanie techniczne, szybkie prototypowanie i testowanie rozwiązania oraz priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Papier, taśma, butelka lub książka.",
+    "lista_potrzebnych_rzeczy": [
+      "Papier: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Taśma: 1 rolka na 2 zespoły albo paski odmierzone przed lekcją.",
+      "Butelka: 1 pusta butelka testowa dla nauczyciela albo po 1 na zespół.",
+      "Książka: 2-4 sztuki jako obciążenie lub podpory testowe.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zbudować podest, który naprawdę utrzyma ciężar.",
@@ -627,6 +710,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zaprojektować opakowanie, które przejdzie test upadku.",
     "co_cwiczy": "Aktywność ćwiczy tworzenie rozwiązania dla konkretnego użytkownika i szybki test oraz działanie techniczne, szybkie prototypowanie i testowanie rozwiązania.",
     "co_zabrac": "Papier, taśma, gumka lub jajko opcjonalnie.",
+    "lista_potrzebnych_rzeczy": [
+      "Papier: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Taśma: 1 rolka na 2 zespoły albo paski odmierzone przed lekcją.",
+      "Gumka: kilka sztuk na zespół.",
+      "Jajko opcjonalnie: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji.",
+      "Miejsce do testu: wyznacz jedną kolejkę albo strefę pokazową, żeby zespoły nie testowały naraz."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach działa warunkowo: ogranicz ruch po sali i testuj zespoły po kolei.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zaprojektować opakowanie, które przejdzie test upadku.",
@@ -681,6 +773,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie przenieść ładunek bez dotykania go ręką.",
     "co_cwiczy": "Aktywność ćwiczy działanie techniczne, szybkie prototypowanie i testowanie rozwiązania.",
     "co_zabrac": "Sznurek, gumki, kubek, patyczki.",
+    "lista_potrzebnych_rzeczy": [
+      "Sznurek: po 1-3 sztuki na zespół, zależnie od wariantu zadania.",
+      "Gumki: kilka sztuk na zespół.",
+      "Kubek: po 1-3 sztuki na zespół, zależnie od wariantu zadania.",
+      "Patyczki: po 1-3 sztuki na zespół, zależnie od wariantu zadania.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji.",
+      "Miejsce do testu: wyznacz jedną kolejkę albo strefę pokazową, żeby zespoły nie testowały naraz."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie przenieść ładunek bez dotykania go ręką.",
@@ -735,6 +836,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zbudować najwyższą stabilną wieżę, która utrzyma mały ciężar.",
     "co_cwiczy": "Aktywność ćwiczy działanie techniczne, szybkie prototypowanie i testowanie rozwiązania oraz priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Kartki A4, taśma, mały ciężar testowy.",
+    "lista_potrzebnych_rzeczy": [
+      "8 kartek A4 na zespół.",
+      "60 cm taśmy malarskiej albo 8 krótkich pasków taśmy na zespół.",
+      "1 moneta 5 zł, gumka albo mały marker jako ciężar testowy: 1 sztuka do testu na zespół albo jeden wspólny ciężar testowy.",
+      "Linijka, miarka albo kratki na tablicy do pomiaru wysokości: 1 sztuka dla nauczyciela do pomiaru albo 1 na zespół przy pracy równoległej.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zbudować najwyższą stabilną wieżę, która utrzyma mały ciężar.",
@@ -789,6 +899,12 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zbudować mur, który przejdzie test wiatru.",
     "co_cwiczy": "Aktywność ćwiczy działanie techniczne, szybkie prototypowanie i testowanie rozwiązania oraz tworzenie rozwiązania dla konkretnego użytkownika i szybki test.",
     "co_zabrac": "Papier, taśma.",
+    "lista_potrzebnych_rzeczy": [
+      "Papier: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Taśma: 1 rolka na 2 zespoły albo paski odmierzone przed lekcją.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zbudować mur, który przejdzie test wiatru.",
@@ -843,6 +959,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie przeżyć miesiąc finansowo i nie wpaść pod kreskę.",
     "co_cwiczy": "Aktywność ćwiczy podejmowanie decyzji finansowych przy ograniczonych zasobach.",
     "co_zabrac": "Karta scenariusza, kalkulator opcjonalnie.",
+    "lista_potrzebnych_rzeczy": [
+      "1 karta pracy na zespół 3-5 osób.",
+      "Kalkulator w telefonie albo zwykłe liczenie pisemne: 1 na zespół; telefon z kalkulatorem wystarczy, jeśli szkoła dopuszcza.",
+      "Tablica do zapisania wyników: saldo końcowe, oszczędność, 3 cięcia; miejsce na wynik, ranking albo kryteria oceny.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie przeżyć miesiąc finansowo i nie wpaść pod kreskę.",
@@ -897,6 +1020,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie wybrać abonament, na którym klient najmniej straci.",
     "co_cwiczy": "Aktywność ćwiczy podejmowanie decyzji finansowych przy ograniczonych zasobach.",
     "co_zabrac": "Wydruk ofert lub wyświetlenie.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta ofert dla każdego zespołu.",
+      "Kalkulator opcjonalnie: 1 na zespół; telefon z kalkulatorem wystarczy, jeśli szkoła dopuszcza.",
+      "Długopis i kartka do macierzy punktów: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie wybrać abonament, na którym klient najmniej straci.",
@@ -951,6 +1082,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie sprawdzić, ile faktycznie dostaje pracownik i dlaczego.",
     "co_cwiczy": "Aktywność ćwiczy podejmowanie decyzji finansowych przy ograniczonych zasobach.",
     "co_zabrac": "Wydruk paska wypłaty.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta z paskiem wypłaty: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kalkulator opcjonalnie: 1 na zespół; telefon z kalkulatorem wystarczy, jeśli szkoła dopuszcza.",
+      "Tablica do sprawdzenia wyników: miejsce na wynik, ranking albo kryteria oceny.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie sprawdzić, ile faktycznie dostaje pracownik i dlaczego.",
@@ -1005,6 +1143,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie utrzymać budżet mimo problemu, jak w normalnym życiu.",
     "co_cwiczy": "Aktywność ćwiczy podejmowanie decyzji finansowych przy ograniczonych zasobach oraz słuchanie interesów, argumentowanie i szukanie warunków porozumienia.",
     "co_zabrac": "Karty wydatków i awarii.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta pracy dla zespołu: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karty awarii można wyciąć albo odczytać jedną dla całej klasy: 1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.",
+      "Kalkulator opcjonalnie: 1 na zespół; telefon z kalkulatorem wystarczy, jeśli szkoła dopuszcza.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie utrzymać budżet mimo problemu, jak w normalnym życiu.",
@@ -1059,6 +1205,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie stworzyć pomysł, który ma szansę zarobić, nie tylko ładnie brzmieć.",
     "co_cwiczy": "Aktywność ćwiczy podejmowanie decyzji finansowych przy ograniczonych zasobach oraz myślenie o koszcie, wartości, kliencie i sensowności pomysłu.",
     "co_zabrac": "Karta kosztów, kartki.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta kosztów: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kartka A4 na ofertę zespołu: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kalkulator opcjonalnie: 1 na zespół; telefon z kalkulatorem wystarczy, jeśli szkoła dopuszcza.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie stworzyć pomysł, który ma szansę zarobić, nie tylko ładnie brzmieć.",
@@ -1113,6 +1267,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie ustawić ceny tak, żeby firma przetrwała i klienci kupili.",
     "co_cwiczy": "Aktywność ćwiczy podejmowanie decyzji finansowych przy ograniczonych zasobach, myślenie o koszcie, wartości, kliencie i sensowności pomysłu oraz priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Karta kosztów.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta kosztów składników: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kalkulator opcjonalnie: 1 na zespół; telefon z kalkulatorem wystarczy, jeśli szkoła dopuszcza.",
+      "Kartka na menu zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie ustawić ceny tak, żeby firma przetrwała i klienci kupili.",
@@ -1167,6 +1329,16 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie kupić sprytnie, bo wszystkiego nie starczy.",
     "co_cwiczy": "Aktywność ćwiczy słuchanie interesów, argumentowanie i szukanie warunków porozumienia oraz podejmowanie decyzji finansowych przy ograniczonych zasobach.",
     "co_zabrac": "Karty zasobów, punkty budżetu.",
+    "lista_potrzebnych_rzeczy": [
+      "Karty zasobów zapisane na tablicy lub pocięte na kartki: 1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.",
+      "Budżet 100 punktów dla każdego zespołu.",
+      "Karta misji dla każdego zespołu.",
+      "Tabela wyniku: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji.",
+      "Miejsce do testu: wyznacz jedną kolejkę albo strefę pokazową, żeby zespoły nie testowały naraz."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie kupić sprytnie, bo wszystkiego nie starczy.",
@@ -1221,6 +1393,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zdobyć brakujące zasoby, inaczej nie ukończycie misji.",
     "co_cwiczy": "Aktywność ćwiczy słuchanie interesów, argumentowanie i szukanie warunków porozumienia oraz strategię, wynik i uczenie się przez konsekwencje decyzji.",
     "co_zabrac": "Karty zasobów i celów.",
+    "lista_potrzebnych_rzeczy": [
+      "Karty zasobów: drewno, metal, elektronika, instrukcja, transport, energia; 1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.",
+      "Karty celów dla zespołów: 1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.",
+      "Tabela transakcji: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Licznik czasu: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Miejsce do testu: wyznacz jedną kolejkę albo strefę pokazową, żeby zespoły nie testowały naraz."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zdobyć brakujące zasoby, inaczej nie ukończycie misji.",
@@ -1275,6 +1456,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie ustalić, co robić, żeby nie wejść w dług.",
     "co_cwiczy": "Aktywność ćwiczy podejmowanie decyzji finansowych przy ograniczonych zasobach oraz priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Karta scenariusza.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta profilu i decyzji: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kalkulator opcjonalnie: 1 na zespół; telefon z kalkulatorem wystarczy, jeśli szkoła dopuszcza.",
+      "Tablica na porównanie planów: miejsce na wynik, ranking albo kryteria oceny.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie ustalić, co robić, żeby nie wejść w dług.",
@@ -1329,6 +1517,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie wykryć, która oferta może was okraść.",
     "co_cwiczy": "Aktywność ćwiczy współpracę, decyzje i sprawdzanie pomysłów w praktyce.",
     "co_zabrac": "Wydruk screenów lub opisy.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta pracy z sześcioma fikcyjnymi wiadomościami: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kartka A4 na zespół albo zeszyt.",
+      "Długopis: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Tablica do zapisania rankingu klasowego: miejsce na wynik, ranking albo kryteria oceny.",
+      "Opcjonalnie: minutnik; przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie wykryć, która oferta może was okraść.",
@@ -1383,6 +1580,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie znaleźć, gdzie uciekają pieniądze.",
     "co_cwiczy": "Aktywność ćwiczy podejmowanie decyzji finansowych przy ograniczonych zasobach.",
     "co_zabrac": "Karta opłat.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta opłat: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kalkulator opcjonalnie: 1 na zespół; telefon z kalkulatorem wystarczy, jeśli szkoła dopuszcza.",
+      "Tablica na ranking największych przecieków: miejsce na wynik, ranking albo kryteria oceny.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie znaleźć, gdzie uciekają pieniądze.",
@@ -1437,6 +1641,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie kupić sprzęt i nie dać się naciągnąć.",
     "co_cwiczy": "Aktywność ćwiczy ocenianie wiarygodności informacji i szukanie dowodów.",
     "co_zabrac": "Fikcyjne ogłoszenia.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta ogłoszeń: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta punktacji ryzyka: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kartka na werdykt zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie kupić sprzęt i nie dać się naciągnąć.",
@@ -1491,6 +1703,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie dowieźć jak najwięcej paczek najtaniej.",
     "co_cwiczy": "Aktywność ćwiczy priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę oraz systematyczne myślenie i pracę na ograniczeniach.",
     "co_zabrac": "Prosta mapa, karty dostaw.",
+    "lista_potrzebnych_rzeczy": [
+      "Wydruk jednej karty pracy na zespół albo przepisanie mapy i tabeli na tablicę.",
+      "Kartka A4 dla każdego zespołu.",
+      "Długopis, kalkulator opcjonalnie: 1 na zespół; telefon z kalkulatorem wystarczy, jeśli szkoła dopuszcza.",
+      "Zegar widoczny dla klasy: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie dowieźć jak najwięcej paczek najtaniej.",
@@ -1545,6 +1766,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie ułożyć plan, który zadziała nawet po awarii.",
     "co_cwiczy": "Aktywność ćwiczy priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Schemat budynku.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta pracy albo schemat przepisany na tablicę: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kartka A4 na zespół.",
+      "Długopis, zegar: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie ułożyć plan, który zadziała nawet po awarii.",
@@ -1599,6 +1828,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie ustawić naprawy tak, by firma nie stanęła.",
     "co_cwiczy": "Aktywność ćwiczy priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę oraz organizację pracy, odpowiedzialność za role i jakość decyzji.",
     "co_zabrac": "Karta scenariusza.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta scenariusza na zespół albo tabela na tablicy.",
+      "Kartka A4, długopis, kalkulator opcjonalnie: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie ustawić naprawy tak, by firma nie stanęła.",
@@ -1653,6 +1889,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie wybrać rzeczy, od których zależy przeżycie misji.",
     "co_cwiczy": "Aktywność ćwiczy słuchanie interesów, argumentowanie i szukanie warunków porozumienia.",
     "co_zabrac": "Lista 15 przedmiotów.",
+    "lista_potrzebnych_rzeczy": [
+      "1 karta pracy na zespół.",
+      "Długopisy: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Zegar lub stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Opcjonalnie: osobna kartka dla każdego ucznia do rankingu indywidualnego; minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie wybrać rzeczy, od których zależy przeżycie misji.",
@@ -1707,6 +1951,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie złożyć ekipę, która poradzi sobie z awarią.",
     "co_cwiczy": "Aktywność ćwiczy słuchanie interesów, argumentowanie i szukanie warunków porozumienia.",
     "co_zabrac": "Karty kandydatów.",
+    "lista_potrzebnych_rzeczy": [
+      "Lista 12 fikcyjnych kandydatów: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta wyboru 4 osób: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta awarii: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Tabela punktacji: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie złożyć ekipę, która poradzi sobie z awarią.",
@@ -1761,6 +2014,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie doprowadzić konwój do celu przy ograniczonych zasobach.",
     "co_cwiczy": "Aktywność ćwiczy priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę oraz słuchanie interesów, argumentowanie i szukanie warunków porozumienia.",
     "co_zabrac": "Mapa i lista zasobów.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta pracy albo mapa i tabela przepisane na tablicę: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kartka A4 na zespół, długopis.",
+      "Kalkulator opcjonalnie: 1 na zespół; telefon z kalkulatorem wystarczy, jeśli szkoła dopuszcza.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie doprowadzić konwój do celu przy ograniczonych zasobach.",
@@ -1815,6 +2076,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie wybrać rzeczy i plan, który utrzyma was przy życiu.",
     "co_cwiczy": "Aktywność ćwiczy priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Lista przedmiotów.",
+    "lista_potrzebnych_rzeczy": [
+      "Lista 20 przedmiotów: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta wyboru 8 przedmiotów: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta planu 24 godzin: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Tabela punktacji: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie wybrać rzeczy i plan, który utrzyma was przy życiu.",
@@ -1869,6 +2139,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie podjąć trudną decyzję, bo nie starczy dla wszystkich.",
     "co_cwiczy": "Aktywność ćwiczy współpracę, decyzje i sprawdzanie pomysłów w praktyce.",
     "co_zabrac": "Karty przypadków.",
+    "lista_potrzebnych_rzeczy": [
+      "1 karta pracy na zespół.",
+      "Długopisy: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Zegar lub stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Opcjonalnie: 12 małych karteczek jako żetony zasobów; przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie podjąć trudną decyzję, bo nie starczy dla wszystkich.",
@@ -1923,6 +2201,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie znaleźć sprawcę przed innymi zespołami.",
     "co_cwiczy": "Aktywność ćwiczy łączenie poszlak, eliminowanie hipotez i uzasadnianie werdyktu oraz systematyczne myślenie i pracę na ograniczeniach.",
     "co_zabrac": "Karty poszlak.",
+    "lista_potrzebnych_rzeczy": [
+      "1 komplet kart poszlak na zespół.",
+      "1 karta odpowiedzi na zespół.",
+      "Długopisy: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Koperta lub spinacz do spięcia kart: 20-30 sztuk do budowania, oznaczania albo dociążenia pracy zespołów.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie znaleźć sprawcę przed innymi zespołami.",
@@ -1977,6 +2264,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie ułożyć wydarzenia, ale nikt nie ma całej historii.",
     "co_cwiczy": "Aktywność ćwiczy łączenie poszlak, eliminowanie hipotez i uzasadnianie werdyktu, precyzyjną komunikację, bo nikt nie ma kompletu informacji oraz systematyczne myślenie i pracę na ograniczeniach.",
     "co_zabrac": "Karty wskazówek.",
+    "lista_potrzebnych_rzeczy": [
+      "Pocięty zestaw 12 kart wskazówek dla każdego zespołu.",
+      "Karta osi czasu: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Długopisy: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie ułożyć wydarzenia, ale nikt nie ma całej historii.",
@@ -2031,6 +2326,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie złamać kod szybciej niż inne zespoły.",
     "co_cwiczy": "Aktywność ćwiczy koncentrację, wspólne rozwiązywanie zagadek i pracę pod presją czasu, systematyczne myślenie i pracę na ograniczeniach oraz łączenie poszlak, eliminowanie hipotez i uzasadnianie werdyktu.",
     "co_zabrac": "Karty zagadek.",
+    "lista_potrzebnych_rzeczy": [
+      "1 karta zagadek na zespół.",
+      "1 karta kodu na zespół.",
+      "Długopisy: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Opcjonalnie: koperta z napisem \"sejf\", którą nauczyciel otwiera po podaniu kodu; przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie złamać kod szybciej niż inne zespoły.",
@@ -2085,6 +2389,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie wydostać się z pokoju, składając hasło z zadań.",
     "co_cwiczy": "Aktywność ćwiczy koncentrację, wspólne rozwiązywanie zagadek i pracę pod presją czasu, strategię, wynik i uczenie się przez konsekwencje decyzji oraz systematyczne myślenie i pracę na ograniczeniach.",
     "co_zabrac": "Wydruk 1-2 stron na zespół.",
+    "lista_potrzebnych_rzeczy": [
+      "1 karta czterech misji na zespół.",
+      "1 karta odpowiedzi na zespół.",
+      "Długopisy: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Zegar: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie wydostać się z pokoju, składając hasło z zadań.",
@@ -2139,6 +2452,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie odczytać wiadomość, która prowadzi do celu.",
     "co_cwiczy": "Aktywność ćwiczy systematyczne myślenie i pracę na ograniczeniach oraz koncentrację, wspólne rozwiązywanie zagadek i pracę pod presją czasu.",
     "co_zabrac": "Karty z szyframi.",
+    "lista_potrzebnych_rzeczy": [
+      "1 karta szyfrów na zespół.",
+      "1 karta odpowiedzi na zespół.",
+      "Długopisy: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie odczytać wiadomość, która prowadzi do celu.",
@@ -2193,6 +2514,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie znaleźć trasę, ale nikt nie widzi całej mapy.",
     "co_cwiczy": "Aktywność ćwiczy precyzyjną komunikację, bo nikt nie ma kompletu informacji oraz priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Karty fragmentow mapy.",
+    "lista_potrzebnych_rzeczy": [
+      "Najlepiej wydruk: jedna karta roli dla każdej osoby w zespole; 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Wersja bez wydruku: nauczyciel dyktuje role, uczniowie zapisują swoje informacje i nie pokazują kartek; 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kartka wspólna dla zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie znaleźć trasę, ale nikt nie widzi całej mapy.",
@@ -2247,6 +2576,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie wykryć kłamstwo w danych.",
     "co_cwiczy": "Aktywność ćwiczy łączenie poszlak, eliminowanie hipotez i uzasadnianie werdyktu oraz systematyczne myślenie i pracę na ograniczeniach.",
     "co_zabrac": "Karty alibi.",
+    "lista_potrzebnych_rzeczy": [
+      "1 karta alibi na zespół.",
+      "1 karta dowodów na zespół.",
+      "Długopisy: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie wykryć kłamstwo w danych.",
@@ -2301,6 +2638,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie wypełnić tabelę bez zgadywania.",
     "co_cwiczy": "Aktywność ćwiczy systematyczne myślenie i pracę na ograniczeniach oraz łączenie poszlak, eliminowanie hipotez i uzasadnianie werdyktu.",
     "co_zabrac": "Wydruk gridu.",
+    "lista_potrzebnych_rzeczy": [
+      "1 karta logicznej siatki na zespół.",
+      "Długopisy lub ołówki: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Zegar: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie wypełnić tabelę bez zgadywania.",
@@ -2355,6 +2700,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie wyjaśnić absurdalną sytuację jak detektywi.",
     "co_cwiczy": "Aktywność ćwiczy systematyczne myślenie i pracę na ograniczeniach.",
     "co_zabrac": "Lista zagadek.",
+    "lista_potrzebnych_rzeczy": [
+      "Lista 5 neutralnych zagadek dla nauczyciela: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta pytań dla zespołu: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Tabela punktacji: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Opcjonalnie: kartki \"TAK\", \"NIE\", \"NIEISTOTNE\" dla nauczyciela; minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie wyjaśnić absurdalną sytuację jak detektywi.",
@@ -2409,6 +2763,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie znaleźć fałszywy dowód, zanim popsuje decyzję.",
     "co_cwiczy": "Aktywność ćwiczy ocenianie wiarygodności informacji i szukanie dowodów oraz łączenie poszlak, eliminowanie hipotez i uzasadnianie werdyktu.",
     "co_zabrac": "Karty dowodów.",
+    "lista_potrzebnych_rzeczy": [
+      "1 pakiet czterech dowodów na zespół.",
+      "1 karta werdyktu: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Długopisy: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie znaleźć fałszywy dowód, zanim popsuje decyzję.",
@@ -2463,6 +2825,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zdecydować, czemu można ufać, zanim podacie dalej.",
     "co_cwiczy": "Aktywność ćwiczy współpracę, decyzje i sprawdzanie pomysłów w praktyce.",
     "co_zabrac": "Wydruki postów.",
+    "lista_potrzebnych_rzeczy": [
+      "Pięć fikcyjnych postów: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Tabela kryteriów wiarygodności: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kartka A4 na zespół.",
+      "Tablica do wspólnego rankingu: miejsce na wynik, ranking albo kryteria oceny.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zdecydować, czemu można ufać, zanim podacie dalej.",
@@ -2517,6 +2887,16 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie kupić tylko te źródła, które naprawdę pomoga wygrać.",
     "co_cwiczy": "Aktywność ćwiczy ocenianie wiarygodności informacji i szukanie dowodów oraz strategię, wynik i uczenie się przez konsekwencje decyzji.",
     "co_zabrac": "Karty źródeł.",
+    "lista_potrzebnych_rzeczy": [
+      "Lista zadania badawczego: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "10 kart źródeł z ceną wywoławczą: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Po 100 punktów budżetu na zespół.",
+      "Kartka odpowiedzi zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Tablica do prowadzenia aukcji: miejsce na wynik, ranking albo kryteria oceny.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji.",
+      "Miejsce do testu: wyznacz jedną kolejkę albo strefę pokazową, żeby zespoły nie testowały naraz."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie kupić tylko te źródła, które naprawdę pomoga wygrać.",
@@ -2571,6 +2951,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie sprawdzić, czy naglowek nie robi was w balona.",
     "co_cwiczy": "Aktywność ćwiczy ocenianie wiarygodności informacji i szukanie dowodów oraz ostrożność wobec manipulacji i sprawdzanie przesłanek.",
     "co_zabrac": "Wydruki naglowkow i leadow.",
+    "lista_potrzebnych_rzeczy": [
+      "6 fikcyjnych nagłówków: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "5 fikcyjnych leadów artykułów: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Tabela dopasowania: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Długopisy, kartki: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie sprawdzić, czy naglowek nie robi was w balona.",
@@ -2625,6 +3014,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie nie dać się złapać na pierwsze wrażenie.",
     "co_cwiczy": "Aktywność ćwiczy ocenianie wiarygodności informacji i szukanie dowodów oraz łączenie poszlak, eliminowanie hipotez i uzasadnianie werdyktu.",
     "co_zabrac": "Zdjęcie na ekranie lub wydruk.",
+    "lista_potrzebnych_rzeczy": [
+      "Opis wąskiego kadru: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Cztery opisy interpretacyjne: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Opis szerszego kadru jako zwrot akcji: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Tabela: obserwacja / interpretacja / brakujące dane; 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie nie dać się złapać na pierwsze wrażenie.",
@@ -2679,6 +3077,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie wygrać sprawę na dowodach, nie na głośności.",
     "co_cwiczy": "Aktywność ćwiczy ocenianie wiarygodności informacji i szukanie dowodów.",
     "co_zabrac": "Karty argumentów.",
+    "lista_potrzebnych_rzeczy": [
+      "Teza sprawy: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "8 kart dowodów: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta werdyktu: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Tablica do zapisania najlepszych argumentów: miejsce na wynik, ranking albo kryteria oceny.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie wygrać sprawę na dowodach, nie na głośności.",
@@ -2733,6 +3139,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie podjąć decyzję, która ma realne koszty.",
     "co_cwiczy": "Aktywność ćwiczy priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Karta scenariusza.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta scenariusza albo dane zapisane na tablicy: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kartka A4 lub zeszyt do narysowania drzewa: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Kalkulator opcjonalnie: 1 na zespół; telefon z kalkulatorem wystarczy, jeśli szkoła dopuszcza.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie podjąć decyzję, która ma realne koszty.",
@@ -2787,6 +3201,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie poprawić punkt śniadaniowy tak, żeby zmieścił się w budżecie i przetrwał konkurencję.",
     "co_cwiczy": "Aktywność ćwiczy tworzenie rozwiązania dla konkretnego użytkownika i szybki test.",
     "co_zabrac": "Kartka, tablica, cennik produktów.",
+    "lista_potrzebnych_rzeczy": [
+      "Kartka A4 dla każdego zespołu.",
+      "Tablica: miejsce na wynik, ranking albo kryteria oceny.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Opcjonalnie wydruk karty pracy: 1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie poprawić punkt śniadaniowy tak, żeby zmieścił się w budżecie i przetrwał konkurencję.",
@@ -2841,6 +3262,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zrobić plan, który przejdzie próbę ataku.",
     "co_cwiczy": "Aktywność ćwiczy priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Kartki.",
+    "lista_potrzebnych_rzeczy": [
+      "Kartka A4 dla zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Tablica: miejsce na wynik, ranking albo kryteria oceny.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Opcjonalnie wydruk briefu i karty red team: 1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zrobić plan, który przejdzie próbę ataku.",
@@ -2895,6 +3323,16 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zaprojektować rzecz, której ktoś faktycznie chciałby używać.",
     "co_cwiczy": "Aktywność ćwiczy tworzenie rozwiązania dla konkretnego użytkownika i szybki test.",
     "co_zabrac": "Kartki, długopisy.",
+    "lista_potrzebnych_rzeczy": [
+      "Kartka A4 na zespół.",
+      "Długopisy lub ołówki: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta profilu użytkownika i ograniczeń: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Tabela decyzji projektowych: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Rubryka testu 5 pytań: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zaprojektować rzecz, której ktoś faktycznie chciałby używać.",
@@ -2949,6 +3387,16 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie wymyślić ulepszenie, które da się sprzedać lub użyć.",
     "co_cwiczy": "Aktywność ćwiczy tworzenie rozwiązania dla konkretnego użytkownika i szybki test.",
     "co_zabrac": "Kartki.",
+    "lista_potrzebnych_rzeczy": [
+      "Kartka A4 dla każdego ucznia lub zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Długopisy: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta profilu klienta: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Tabela oceny 8 pomysłów: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Minutnik: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie wymyślić ulepszenie, które da się sprzedać lub użyć.",
@@ -3003,6 +3451,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zbudować model, który pokazuje działanie pomysłu.",
     "co_cwiczy": "Aktywność ćwiczy tworzenie rozwiązania dla konkretnego użytkownika i szybki test oraz działanie techniczne, szybkie prototypowanie i testowanie rozwiązania.",
     "co_zabrac": "Papier, tektura, taśma.",
+    "lista_potrzebnych_rzeczy": [
+      "Makulatura, stare kartki, tektura z pudełek: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Taśma, klej albo zszywacz: 1 rolka na 2 zespoły albo paski odmierzone przed lekcją.",
+      "Nożyczki, jeśli nauczyciel może je bezpiecznie rozdać: 1 para na zespół.",
+      "3 przedmioty testowe: długopis, telefon albo kalkulator, mała kartka A6; minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zbudować model, który pokazuje działanie pomysłu.",
@@ -3057,6 +3514,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie sprzedać coś trudnego tak, żeby mialo sens.",
     "co_cwiczy": "Aktywność ćwiczy myślenie o koszcie, wartości, kliencie i sensowności pomysłu.",
     "co_zabrac": "Karty produktów.",
+    "lista_potrzebnych_rzeczy": [
+      "Lista produktów: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Lista grup klientów: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta reklamy 30 sekund: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Rubryka oceny: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie sprzedać coś trudnego tak, żeby mialo sens.",
@@ -3111,6 +3577,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie pokazać, czy wasz projekt wytrzyma zmianę wymagań.",
     "co_cwiczy": "Aktywność ćwiczy tworzenie rozwiązania dla konkretnego użytkownika i szybki test oraz priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Karty briefu.",
+    "lista_potrzebnych_rzeczy": [
+      "Karty briefu: 1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.",
+      "Karty zmiany wymagań: 1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.",
+      "Karta projektu: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Rubryka oceny: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie pokazać, czy wasz projekt wytrzyma zmianę wymagań.",
@@ -3165,6 +3640,16 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie naprawić usługę tak, żeby klient nie odpadł.",
     "co_cwiczy": "Aktywność ćwiczy tworzenie rozwiązania dla konkretnego użytkownika i szybki test.",
     "co_zabrac": "Karty kroków.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta procesu z 8 krokami: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Profil klienta: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Tabela emocji i problemów: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta poprawki: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Długopisy: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie naprawić usługę tak, żeby klient nie odpadł.",
@@ -3219,6 +3704,12 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie przerobić absurd w realne rozwiązanie.",
     "co_cwiczy": "Aktywność ćwiczy współpracę, decyzje i sprawdzanie pomysłów w praktyce.",
     "co_zabrac": "Kartki.",
+    "lista_potrzebnych_rzeczy": [
+      "Kartka A4 dla zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Tablica: miejsce na wynik, ranking albo kryteria oceny.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie przerobić absurd w realne rozwiązanie.",
@@ -3273,6 +3764,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie podpisać umowe, na której wasza strona nie przegra.",
     "co_cwiczy": "Aktywność ćwiczy słuchanie interesów, argumentowanie i szukanie warunków porozumienia oraz organizację pracy, odpowiedzialność za role i jakość decyzji.",
     "co_zabrac": "Karty ról.",
+    "lista_potrzebnych_rzeczy": [
+      "Tablica lub kartka nauczyciela do zapisania punktacji: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Po jednej karcie roli dla każdej pary zespołów: Klient i Dostawca; 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Wzór umowy z tabelą: cena, termin, poziom jakości, serwis, kara za opóźnienie; przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Licznik czasu: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie podpisać umowe, na której wasza strona nie przegra.",
@@ -3327,6 +3825,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie dogadać grafik, bo każdy czegoś potrzebuje.",
     "co_cwiczy": "Aktywność ćwiczy słuchanie interesów, argumentowanie i szukanie warunków porozumienia oraz priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Karty potrzeb.",
+    "lista_potrzebnych_rzeczy": [
+      "Karty ról dla ekip albo dane przepisane na tablicę: 1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.",
+      "Jedna karta harmonogramu na zespół.",
+      "Długopisy: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie dogadać grafik, bo każdy czegoś potrzebuje.",
@@ -3381,6 +3887,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zrobić plan, który zmieści się w budżecie.",
     "co_cwiczy": "Aktywność ćwiczy priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę, podejmowanie decyzji finansowych przy ograniczonych zasobach oraz słuchanie interesów, argumentowanie i szukanie warunków porozumienia.",
     "co_zabrac": "Karta kosztów.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta kosztów wyjazdu: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kalkulator opcjonalnie: 1 na zespół; telefon z kalkulatorem wystarczy, jeśli szkoła dopuszcza.",
+      "Kartka na plan zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zrobić plan, który zmieści się w budżecie.",
@@ -3435,6 +3949,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie podpisać umowe, z która wszyscy mogą żyć.",
     "co_cwiczy": "Aktywność ćwiczy słuchanie interesów, argumentowanie i szukanie warunków porozumienia, organizację pracy, odpowiedzialność za role i jakość decyzji oraz priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Karty ról.",
+    "lista_potrzebnych_rzeczy": [
+      "Trzy karty ról: 1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.",
+      "Wzór umowy wspólnego lokalu: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Tabela punktacji dla każdej roli: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Licznik czasu: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-6 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie podpisać umowe, z która wszyscy mogą żyć.",
@@ -3489,6 +4011,16 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zdobyć informacje, które pozwolą podjąć najlepszą decyzję.",
     "co_cwiczy": "Aktywność ćwiczy słuchanie interesów, argumentowanie i szukanie warunków porozumienia, ocenianie wiarygodności informacji i szukanie dowodów oraz podejmowanie decyzji finansowych przy ograniczonych zasobach.",
     "co_zabrac": "Karty informacji.",
+    "lista_potrzebnych_rzeczy": [
+      "Karty informacji podzielone między zespoły: 1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.",
+      "Karta decyzji inwestycyjnej: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Tabela transakcji informacyjnych: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Klucz nauczyciela: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji.",
+      "Miejsce do testu: wyznacz jedną kolejkę albo strefę pokazową, żeby zespoły nie testowały naraz."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zdobyć informacje, które pozwolą podjąć najlepszą decyzję.",
@@ -3543,6 +4075,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zdobyć punkty, ale nie wiecie, czy inni wam zaufają.",
     "co_cwiczy": "Aktywność ćwiczy strategię, wynik i uczenie się przez konsekwencje decyzji oraz słuchanie interesów, argumentowanie i szukanie warunków porozumienia.",
     "co_zabrac": "Tabela punktów.",
+    "lista_potrzebnych_rzeczy": [
+      "Karty decyzji: WSPÓŁPRACUJĘ i GRAM DLA SIEBIE; 1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.",
+      "Tabela punktów rund: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta wyniku zespołu: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Licznik czasu: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zdobyć punkty, ale nie wiecie, czy inni wam zaufają.",
@@ -3597,6 +4137,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie udowodnić, że to wam zasób da największy efekt.",
     "co_cwiczy": "Aktywność ćwiczy słuchanie interesów, argumentowanie i szukanie warunków porozumienia.",
     "co_zabrac": "Karty misji.",
+    "lista_potrzebnych_rzeczy": [
+      "Karty misji: 1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.",
+      "Karta ostatniego zasobu: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Wzór propozycji dla komisji: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Tabela punktacji: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie udowodnić, że to wam zasób da największy efekt.",
@@ -3651,6 +4200,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie znaleźć decyzję, która przejdzie przez cały zespół.",
     "co_cwiczy": "Aktywność ćwiczy współpracę, decyzje i sprawdzanie pomysłów w praktyce.",
     "co_zabrac": "Karty opcji.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta sytuacji: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Pięć opcji decyzji: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta warunków ról: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta konsensusu: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie znaleźć decyzję, która przejdzie przez cały zespół.",
@@ -3705,6 +4263,12 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie odtworzyć schemat tylko z instrukcji.",
     "co_cwiczy": "Aktywność ćwiczy precyzyjną komunikację, bo nikt nie ma kompletu informacji.",
     "co_zabrac": "Rysunek wzoru, kartki.",
+    "lista_potrzebnych_rzeczy": [
+      "Rysunek wzoru: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Kartki: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie odtworzyć schemat tylko z instrukcji.",
@@ -3759,6 +4323,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zbudować kopie, ale budowniczy nie widzi celu.",
     "co_cwiczy": "Aktywność ćwiczy działanie techniczne, szybkie prototypowanie i testowanie rozwiązania.",
     "co_zabrac": "Klocki, kubki lub papier.",
+    "lista_potrzebnych_rzeczy": [
+      "Klocki: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Kubki: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Papier: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zbudować kopie, ale budowniczy nie widzi celu.",
@@ -3813,6 +4384,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie ustalić trasę, ale każdy widzi tylko część danych.",
     "co_cwiczy": "Aktywność ćwiczy precyzyjną komunikację, bo nikt nie ma kompletu informacji, priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę oraz systematyczne myślenie i pracę na ograniczeniach.",
     "co_zabrac": "Karty mapy i celów.",
+    "lista_potrzebnych_rzeczy": [
+      "Karty ról: mapa, cele, ograniczenia, zapis trasy; 1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.",
+      "Kartka wspólna zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Zegar: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie ustalić trasę, ale każdy widzi tylko część danych.",
@@ -3867,6 +4446,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zbudować model, ale instrukcja jest podzielona między was.",
     "co_cwiczy": "Aktywność ćwiczy działanie techniczne, szybkie prototypowanie i testowanie rozwiązania, precyzyjną komunikację, bo nikt nie ma kompletu informacji oraz priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Karty instrukcji, papier.",
+    "lista_potrzebnych_rzeczy": [
+      "4 karty instrukcji na zespół: A, B, C, D.",
+      "1 kartka A4 na zespół.",
+      "Długopisy lub ołówki: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Opcjonalnie: linijka do narysowania siatki; 1 sztuka dla nauczyciela do pomiaru albo 1 na zespół przy pracy równoległej.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zbudować model, ale instrukcja jest podzielona między was.",
@@ -3921,6 +4509,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie wybrać partie, które nie mogą iść do klienta.",
     "co_cwiczy": "Aktywność ćwiczy organizację pracy, odpowiedzialność za role i jakość decyzji oraz łączenie poszlak, eliminowanie hipotez i uzasadnianie werdyktu.",
     "co_zabrac": "Karty produktów i wad.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta pracy z tabelą partii i wad;: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Długopis dla każdego zespołu;.",
+      "Tablica do zapisania wyników;: miejsce na wynik, ranking albo kryteria oceny.",
+      "Opcjonalnie minutnik: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie wybrać partie, które nie mogą iść do klienta.",
@@ -3975,6 +4571,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie ustawić produkcję tak, by wynik był szybki i równy.",
     "co_cwiczy": "Aktywność ćwiczy priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę oraz działanie techniczne, szybkie prototypowanie i testowanie rozwiązania.",
     "co_zabrac": "Papier, taśma, wzór.",
+    "lista_potrzebnych_rzeczy": [
+      "Papier: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Taśma: 1 rolka na 2 zespoły albo paski odmierzone przed lekcją.",
+      "Wzór: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji.",
+      "Miejsce do testu: wyznacz jedną kolejkę albo strefę pokazową, żeby zespoły nie testowały naraz."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-6 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie ustawić produkcję tak, by wynik był szybki i równy.",
@@ -4029,6 +4633,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie usunąć awarię, ale każdy ma inny fragment odpowiedzialności.",
     "co_cwiczy": "Aktywność ćwiczy organizację pracy, odpowiedzialność za role i jakość decyzji oraz priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Karty ról i zasobów.",
+    "lista_potrzebnych_rzeczy": [
+      "Karty ról: dyspozytor, technik, magazyn, klient; 1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.",
+      "Karta awarii: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Lista zasobów: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Formularz decyzji: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie usunąć awarię, ale każdy ma inny fragment odpowiedzialności.",
@@ -4083,6 +4696,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie ułożyć pracę tak, żeby zespół się nie rozsypał.",
     "co_cwiczy": "Aktywność ćwiczy priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę oraz organizację pracy, odpowiedzialność za role i jakość decyzji.",
     "co_zabrac": "Karteczki lub kartki.",
+    "lista_potrzebnych_rzeczy": [
+      "Lista 12 zadań: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta zespołu z rolami i ograniczeniami: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Tabela Kanban: Do zrobienia / W trakcie / Gotowe; 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Długopisy lub karteczki: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie ułożyć pracę tak, żeby zespół się nie rozsypał.",
@@ -4137,6 +4759,15 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie oszacować robotę tak, żeby plan był wykonalny.",
     "co_cwiczy": "Aktywność ćwiczy priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Karty 1-5.",
+    "lista_potrzebnych_rzeczy": [
+      "Karty szacowania 1, 2, 3, 5 dla każdego ucznia lub kartka do zapisania liczby: 1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.",
+      "Lista zadań: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Tabela rozbieżności i planu: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Długopisy: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie oszacować robotę tak, żeby plan był wykonalny.",
@@ -4191,6 +4822,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie wybrać poprawki, które najwięcej zmienią dla użytkownika.",
     "co_cwiczy": "Aktywność ćwiczy tworzenie rozwiązania dla konkretnego użytkownika i szybki test.",
     "co_zabrac": "Karty skarg.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta skarg i danych albo tabela przepisana na tablicę: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kartka A4 dla zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Długopis: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie wybrać poprawki, które najwięcej zmienią dla użytkownika.",
@@ -4245,6 +4884,12 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie znaleźć miejsce, gdzie system się zacina.",
     "co_cwiczy": "Aktywność ćwiczy priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę oraz systematyczne myślenie i pracę na ograniczeniach.",
     "co_zabrac": "Karty kroków procesu.",
+    "lista_potrzebnych_rzeczy": [
+      "Kartka A4 dla zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Tablica: miejsce na wynik, ranking albo kryteria oceny.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie znaleźć miejsce, gdzie system się zacina.",
@@ -4299,6 +4944,12 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie napisać instrukcję, którą ktoś naprawdę wykona.",
     "co_cwiczy": "Aktywność ćwiczy działanie techniczne, szybkie prototypowanie i testowanie rozwiązania.",
     "co_zabrac": "Papier, wzór modelu.",
+    "lista_potrzebnych_rzeczy": [
+      "Papier: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Wzór modelu: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie napisać instrukcję, którą ktoś naprawdę wykona.",
@@ -4353,6 +5004,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie ułożyć proces tak, by produkt wyszedł poprawnie.",
     "co_cwiczy": "Aktywność ćwiczy priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę, organizację pracy, odpowiedzialność za role i jakość decyzji oraz systematyczne myślenie i pracę na ograniczeniach.",
     "co_zabrac": "Karty kroków.",
+    "lista_potrzebnych_rzeczy": [
+      "Kartka A4 dla zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Lista kroków procesu: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie ułożyć proces tak, by produkt wyszedł poprawnie.",
@@ -4407,6 +5065,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie dogadać ranking bez gadania, a potem go obronić.",
     "co_cwiczy": "Aktywność ćwiczy współpracę, decyzje i sprawdzanie pomysłów w praktyce.",
     "co_zabrac": "Karty rzeczy.",
+    "lista_potrzebnych_rzeczy": [
+      "Lista 10 rzeczy: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kartka A4 dla zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Długopisy: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie dogadać ranking bez gadania, a potem go obronić.",
@@ -4461,6 +5127,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zbudować coś razem, bo jedna osoba nie zdąży zrobić wszystkiego.",
     "co_cwiczy": "Aktywność ćwiczy działanie techniczne, szybkie prototypowanie i testowanie rozwiązania.",
     "co_zabrac": "Papier, taśma.",
+    "lista_potrzebnych_rzeczy": [
+      "Papier: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Taśma: 1 rolka na 2 zespoły albo paski odmierzone przed lekcją.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji.",
+      "Miejsce do testu: wyznacz jedną kolejkę albo strefę pokazową, żeby zespoły nie testowały naraz."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zbudować coś razem, bo jedna osoba nie zdąży zrobić wszystkiego.",
@@ -4515,6 +5188,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie złożyć rozwiązanie z wiedzy, która jest rozdzielona.",
     "co_cwiczy": "Aktywność ćwiczy precyzyjną komunikację, bo nikt nie ma kompletu informacji.",
     "co_zabrac": "Karty ekspertów.",
+    "lista_potrzebnych_rzeczy": [
+      "Karty ekspertów A-D: 1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.",
+      "Kartka zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie złożyć rozwiązanie z wiedzy, która jest rozdzielona.",
@@ -4569,6 +5249,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie ogarnąć zadanie tak, żeby każdy umiał je obronić.",
     "co_cwiczy": "Aktywność ćwiczy współpracę, decyzje i sprawdzanie pomysłów w praktyce.",
     "co_zabrac": "Numery, karta zadania.",
+    "lista_potrzebnych_rzeczy": [
+      "Kartka A4 dla zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Numery 1-4 dla członków zespołu: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie ogarnąć zadanie tak, żeby każdy umiał je obronić.",
@@ -4623,6 +5310,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zebrać najlepsze rozwiązania i zrobić z nich jeden plan.",
     "co_cwiczy": "Aktywność ćwiczy priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Arkusze na stolach.",
+    "lista_potrzebnych_rzeczy": [
+      "4 duże kartki albo 4 fragmenty tablicy: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Marker dla każdego zespołu.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zebrać najlepsze rozwiązania i zrobić z nich jeden plan.",
@@ -4677,6 +5371,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zebrać pomysły od wielu osób i wybrać najlepszy.",
     "co_cwiczy": "Aktywność ćwiczy współpracę, decyzje i sprawdzanie pomysłów w praktyce.",
     "co_zabrac": "Karty problemów.",
+    "lista_potrzebnych_rzeczy": [
+      "Karty problemów przepisane z tabeli: 1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.",
+      "Kartka A4 dla pary lub zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 2 potem 4 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach działa warunkowo: ogranicz ruch po sali i testuj zespoły po kolei.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zebrać pomysły od wielu osób i wybrać najlepszy.",
@@ -4731,6 +5432,12 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie przekonać innych, że wasze rozwiązanie ma najlepszy bilans.",
     "co_cwiczy": "Aktywność ćwiczy tworzenie rozwiązania dla konkretnego użytkownika i szybki test.",
     "co_zabrac": "Karta kryteriów.",
+    "lista_potrzebnych_rzeczy": [
+      "Kartka A4 dla zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Tablica z kryteriami: miejsce na wynik, ranking albo kryteria oceny.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie przekonać innych, że wasze rozwiązanie ma najlepszy bilans.",
@@ -4785,6 +5492,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie podejmować decyzje szybko i z sensem.",
     "co_cwiczy": "Aktywność ćwiczy strategię, wynik i uczenie się przez konsekwencje decyzji.",
     "co_zabrac": "Karty sytuacji.",
+    "lista_potrzebnych_rzeczy": [
+      "Lista 5 case’ów: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Tabela wyników na tablicy: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kartki odpowiedzi A/B/C: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie podejmować decyzje szybko i z sensem.",
@@ -4839,6 +5554,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zbudować mocno, ale nie przepalić budżetu.",
     "co_cwiczy": "Aktywność ćwiczy działanie techniczne, szybkie prototypowanie i testowanie rozwiązania oraz podejmowanie decyzji finansowych przy ograniczonych zasobach.",
     "co_zabrac": "Papier, taśma, cennik.",
+    "lista_potrzebnych_rzeczy": [
+      "Papier: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Taśma: 1 rolka na 2 zespoły albo paski odmierzone przed lekcją.",
+      "Cennik: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zbudować mocno, ale nie przepalić budżetu.",
@@ -4893,6 +5615,12 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie wygrać przetarg, robiąc ofertę z sensem.",
     "co_cwiczy": "Aktywność ćwiczy myślenie o koszcie, wartości, kliencie i sensowności pomysłu, słuchanie interesów, argumentowanie i szukanie warunków porozumienia oraz priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Karta briefu.",
+    "lista_potrzebnych_rzeczy": [
+      "Kartka A4 dla zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Tablica: miejsce na wynik, ranking albo kryteria oceny.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie wygrać przetarg, robiąc ofertę z sensem.",
@@ -4947,6 +5675,12 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie przewidzieć, kto może rozwalić plan i co z tym zrobić.",
     "co_cwiczy": "Aktywność ćwiczy priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Kartka, marker.",
+    "lista_potrzebnych_rzeczy": [
+      "Kartka A4 dla zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Tablica: miejsce na wynik, ranking albo kryteria oceny.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie przewidzieć, kto może rozwalić plan i co z tym zrobić.",
@@ -5001,6 +5735,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zaprojektować zagadkę, którą inni faktycznie rozwiążą.",
     "co_cwiczy": "Aktywność ćwiczy koncentrację, wspólne rozwiązywanie zagadek i pracę pod presją czasu, tworzenie rozwiązania dla konkretnego użytkownika i szybki test oraz systematyczne myślenie i pracę na ograniczeniach.",
     "co_zabrac": "Kartki.",
+    "lista_potrzebnych_rzeczy": [
+      "Kartka A4 dla zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Tablica: miejsce na wynik, ranking albo kryteria oceny.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Opcjonalnie plan korytarza narysowany na tablicy: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zaprojektować zagadkę, którą inni faktycznie rozwiążą.",
@@ -5055,6 +5796,16 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zrobić plakat, który da się zrozumieć w 5 sekund.",
     "co_cwiczy": "Aktywność ćwiczy ocenianie wiarygodności informacji i szukanie dowodów oraz tworzenie rozwiązania dla konkretnego użytkownika i szybki test.",
     "co_zabrac": "Kartki, pisaki.",
+    "lista_potrzebnych_rzeczy": [
+      "Kartka A4 na zespół.",
+      "Długopisy lub pisaki: 1-2 sztuki na zespół.",
+      "Karta ryzyka: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Rubryka testu 5 sekund: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Tabela poprawki: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zrobić plakat, który da się zrozumieć w 5 sekund.",
@@ -5109,6 +5860,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie napisać komunikat, który ratuje sytuację, a nie robi chaos.",
     "co_cwiczy": "Aktywność ćwiczy organizację pracy, odpowiedzialność za role i jakość decyzji.",
     "co_zabrac": "Karta awarii.",
+    "lista_potrzebnych_rzeczy": [
+      "Kartka A4 dla zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Licznik znaków ręczny: orientacyjnie 160 znaków to ok. 2 krótkie zdania; 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie napisać komunikat, który ratuje sytuację, a nie robi chaos.",
@@ -5163,6 +5921,16 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie opanować kryzys, zanim stracicie klientów.",
     "co_cwiczy": "Aktywność ćwiczy ocenianie wiarygodności informacji i szukanie dowodów.",
     "co_zabrac": "Karty komentarzy.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta fikcyjnej firmy: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Trzy komentarze klientów: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta faktów awarii: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta odpowiedzi publicznej: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Zwrot akcji: viralowy screenshot; przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie opanować kryzys, zanim stracicie klientów.",
@@ -5217,6 +5985,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie wybrać ofertę, która nie ma haczyka.",
     "co_cwiczy": "Aktywność ćwiczy podejmowanie decyzji finansowych przy ograniczonych zasobach.",
     "co_zabrac": "Karty ofert.",
+    "lista_potrzebnych_rzeczy": [
+      "Tabela ofert: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kartka A4 dla zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie wybrać ofertę, która nie ma haczyka.",
@@ -5271,6 +6046,16 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie dobrać zestaw, który pozwoli wykonać robotę.",
     "co_cwiczy": "Aktywność ćwiczy organizację pracy, odpowiedzialność za role i jakość decyzji oraz priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę.",
     "co_zabrac": "Lista narzędzi.",
+    "lista_potrzebnych_rzeczy": [
+      "Opis misji: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Lista 14 narzędzi: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Tabela rankingu: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Karta zmiany po zwrocie akcji: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Długopisy: przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie dobrać zestaw, który pozwoli wykonać robotę.",
@@ -5325,6 +6110,13 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie poprawić coś, co nie działa, na podstawie danych.",
     "co_cwiczy": "Aktywność ćwiczy tworzenie rozwiązania dla konkretnego użytkownika i szybki test.",
     "co_zabrac": "Karta projektu i wyników.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta projektu i wyników: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kartka A4 dla zespołu: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Stoper: 1 widoczny timer dla nauczyciela; może być telefon.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie poprawić coś, co nie działa, na podstawie danych.",
@@ -5379,6 +6171,14 @@ window.ACTIVITIES = [
     "cel_dla_uczniow": "Macie zrobić misję za kasę, która nagle przestaje się zgadzać.",
     "co_cwiczy": "Aktywność ćwiczy podejmowanie decyzji finansowych przy ograniczonych zasobach, priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę oraz słuchanie interesów, argumentowanie i szukanie warunków porozumienia.",
     "co_zabrac": "Karty zasobów, budżet.",
+    "lista_potrzebnych_rzeczy": [
+      "Karta zasobów i budżetu: 1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.",
+      "Kartka A4 na plan wydarzenia: minimum 5 sztuk na zespół plus kilka zapasowych.",
+      "Kalkulator opcjonalnie: 1 na zespół; telefon z kalkulatorem wystarczy, jeśli szkoła dopuszcza.",
+      "Tablica na ranking wyników: miejsce na wynik, ranking albo kryteria oceny.",
+      "Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.",
+      "Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji."
+    ],
     "jak_dzielic": "Najlepiej pracować w zespołach po 4-5 osoby. Przy 16 uczniach ustaw 4 zespoły. Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce.",
     "proponowany_przebieg": [
       "0-5 min: przedstaw wyzwanie i powiedz, jak będzie sprawdzany wynik: Macie zrobić misję za kasę, która nagle przestaje się zgadzać.",

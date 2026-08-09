@@ -70,6 +70,13 @@ function activityUrl(activity) {
   return `zadanie.html?id=${encodeURIComponent(activity.id)}`;
 }
 
+function materialList(items, limit) {
+  const list = Array.isArray(items) ? items : [];
+  const visible = Number.isFinite(limit) ? list.slice(0, limit) : list;
+  const extra = Number.isFinite(limit) && list.length > limit ? `<li>+ ${list.length - limit} więcej w szczegółach zadania</li>` : "";
+  return `<ul class="materials-list">${visible.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}${extra}</ul>`;
+}
+
 function populateStats() {
   totalCount.textContent = activities.length;
   strongCount.textContent = activities.filter((item) => item.status === "STRONG CANDIDATE").length;
@@ -100,7 +107,10 @@ function cardTemplate(activity) {
       </div>
       <h3>${escapeHtml(activity.robocza_nazwa)}</h3>
       <p>${escapeHtml(activity.krotki_opis)}</p>
-      <p class="card-materials"><strong>Co zabrać:</strong> ${escapeHtml(activity.co_zabrac)}</p>
+      <div class="card-materials">
+        <strong>Lista rzeczy:</strong>
+        ${materialList(activity.lista_potrzebnych_rzeczy, 3)}
+      </div>
       <div class="meta-grid">
         <span>Czas: ${escapeHtml(activity.czas)}</span>
         <span>Grupa: ${escapeHtml(activity.optymalna_wielkosc_zespolu)} os.</span>
@@ -131,6 +141,7 @@ function filterActivities() {
       activity.przykladowy_zwrot_akcji,
       activity.opis_aktywnosci,
       activity.podprowadzajka,
+      ...(activity.lista_potrzebnych_rzeczy || []),
     ].join(" ").toLowerCase();
 
     return (
@@ -170,8 +181,8 @@ function detailTemplate(activity) {
           ${markdownLite(activity.scenario_instruction)}
         </section>
         <section class="detail-box">
-          <h4>Materiały</h4>
-          ${markdownLite(activity.scenario_materials)}
+          <h4>Lista rzeczy do przygotowania</h4>
+          ${materialList(activity.lista_potrzebnych_rzeczy)}
         </section>
         <section class="detail-box">
           <h4>Zwrot akcji</h4>
@@ -220,8 +231,8 @@ function detailTemplate(activity) {
         <p>${escapeHtml(activity.co_cwiczy)}</p>
       </section>
       <section class="detail-box">
-        <h4>Co zabrać</h4>
-        <p>${escapeHtml(activity.co_zabrac)}</p>
+        <h4>Lista rzeczy do przygotowania</h4>
+        ${materialList(activity.lista_potrzebnych_rzeczy)}
       </section>
       <section class="detail-box">
         <h4>Jak dzielić klasę</h4>

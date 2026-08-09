@@ -72,6 +72,119 @@ def materials(row):
     return raw[0].upper() + raw[1:] + "."
 
 
+def split_materials(raw):
+    raw = raw.strip()
+    if not raw:
+        return []
+    if raw.lower() in {"brak", "brak, tylko dostępne przedmioty"}:
+        return []
+    return [
+        part.strip(" .")
+        for part in raw.replace(" lub ", ", ").replace(" albo ", ", ").split(",")
+        if part.strip(" .")
+    ]
+
+
+def scenario_material_items(value):
+    items = []
+    for line in value.splitlines():
+        line = line.strip()
+        if line.startswith("- "):
+            items.append(line[2:].strip(" ."))
+    return items
+
+
+def checklist_item(item, row):
+    lower = item.lower()
+    item_title = item[:1].upper() + item[1:]
+
+    def with_detail(detail):
+        separator = ";" if ":" in item_title else ":"
+        return f"{item_title}{separator} {detail}"
+
+    if any(token in lower for token in ["na zespół", "dla każdego zespołu", "każdego zespołu"]):
+        return f"{item_title}."
+    if any(token in lower for token in ["karta", "karty", "wydruk", "lista", "tabela", "brief", "scenariusz", "ofert", "ról", "rol", "sytuacji", "dowod", "trop", "komentarz", "koszt", "cennik"]):
+        if lower.startswith("karty") or "karty" in lower:
+            return with_detail("1 komplet na zespół; przygotuj 4 komplety dla 16 osób albo 6 kompletów dla 30 osób.")
+        return with_detail("1 egzemplarz na zespół; przygotuj 4 sztuki dla 16 osób albo 6 sztuk dla 30 osób.")
+    if any(token in lower for token in ["papier", "kartki", "kartka", "a4"]):
+        return with_detail("minimum 5 sztuk na zespół plus kilka zapasowych.")
+    if "taśm" in lower or "tasm" in lower:
+        return with_detail("1 rolka na 2 zespoły albo paski odmierzone przed lekcją.")
+    if "nożycz" in lower or "nozycz" in lower:
+        return with_detail("1 para na zespół.")
+    if "stoper" in lower or "licznik" in lower or "czas" in lower:
+        return with_detail("1 widoczny timer dla nauczyciela; może być telefon.")
+    if "linij" in lower or "miark" in lower:
+        return with_detail("1 sztuka dla nauczyciela do pomiaru albo 1 na zespół przy pracy równoległej.")
+    if "kalkulator" in lower:
+        return with_detail("1 na zespół; telefon z kalkulatorem wystarczy, jeśli szkoła dopuszcza.")
+    if "spinacz" in lower:
+        return with_detail("20-30 sztuk do budowania, oznaczania albo dociążenia pracy zespołów.")
+    if "ciężar" in lower or "ciezar" in lower:
+        return with_detail("1 sztuka do testu na zespół albo jeden wspólny ciężar testowy.")
+    if "monet" in lower and lower.strip().startswith("1 "):
+        return with_detail("1 sztuka na zespół albo jeden wspólny element testowy.")
+    if "monet" in lower:
+        return with_detail("10-20 sztuk do testu, liczenia albo jako obciążenie.")
+    if "marker" in lower or "pisak" in lower:
+        return with_detail("1-2 sztuki na zespół.")
+    if "książ" in lower or "ksiaż" in lower:
+        return with_detail("2-4 sztuki jako obciążenie lub podpory testowe.")
+    if "kulka" in lower or "zwitek" in lower:
+        return with_detail("1 sztuka na zespół plus 1 zapasowa.")
+    if "mały przedmiot" in lower or "maly przedmiot" in lower:
+        return with_detail("1 sztuka na zespół jako obiekt testowy.")
+    if "butel" in lower:
+        return with_detail("1 pusta butelka testowa dla nauczyciela albo po 1 na zespół.")
+    if "miska" in lower or "woda" in lower:
+        return with_detail("1 stanowisko testowe z wodą; ustaw je z dala od elektroniki.")
+    if "folia" in lower:
+        return with_detail("kawałek ok. A4 na zespół plus zapas do drugiej próby.")
+    if "gumk" in lower:
+        return with_detail("kilka sztuk na zespół.")
+    if "patycz" in lower or "łyżk" in lower or "lyzk" in lower or "sznurek" in lower or "kubek" in lower:
+        return with_detail("po 1-3 sztuki na zespół, zależnie od wariantu zadania.")
+    if "tablica" in lower:
+        return with_detail("miejsce na wynik, ranking albo kryteria oceny.")
+
+    return with_detail("przygotuj po 1 zestawie na zespół albo wyświetl wspólnie, jeśli materiał jest tylko do odczytania.")
+
+
+def material_checklist(row, scenario):
+    scenario_items = scenario_material_items(scenario.get("Materiały", ""))
+    base_items = scenario_items or split_materials(row["materialy"])
+    checklist = []
+    seen = set()
+    has_board = any("tablica" in item.lower() for item in base_items)
+    has_timer = any(any(token in item.lower() for token in ["stoper", "licznik", "timer"]) for item in base_items)
+
+    def add(value):
+        key = value.lower()
+        if key not in seen:
+            checklist.append(value)
+            seen.add(key)
+
+    if base_items:
+        for item in base_items:
+            add(checklist_item(item, row))
+    else:
+        add("Kartka lub tablica do zapisania decyzji i wyniku końcowego.")
+
+    if scenario.get("Karta pracy / materiały uczniowskie"):
+        add("Karta pracy / zasady gry: wydrukuj 1 egzemplarz na zespół albo przygotuj wersję do wyświetlenia.")
+    if not has_board:
+        add("Tablica i marker/kreda: miejsce na cel, limit czasu, wynik i krótkie podsumowanie.")
+    if not has_timer:
+        add("Timer: telefon nauczyciela albo stoper ustawiony tak, żeby pilnować rund i zwrotu akcji.")
+
+    if row["ryzyko_chaosu"] in {"4", "5"}:
+        add("Miejsce do testu: wyznacz jedną kolejkę albo strefę pokazową, żeby zespoły nie testowały naraz.")
+
+    return checklist
+
+
 def group_instruction(row):
     size = row["optymalna_wielkosc_zespolu"]
     base = f"Najlepiej pracować w zespołach po {size} osoby."
@@ -179,6 +292,7 @@ def enrich(row, scenarios):
         "cel_dla_uczniow": row["odpowiedz_po_co"],
         "co_cwiczy": f"Aktywność ćwiczy {practice}.",
         "co_zabrac": materials(row),
+        "lista_potrzebnych_rzeczy": material_checklist(row, scenario),
         "jak_dzielic": group_instruction(row),
         "proponowany_przebieg": steps(row),
         "bezpieczenstwo_i_uwagi": f"{chaos_note(row['ryzyko_chaosu'])} Uwaga adaptacyjna: {row['adaptacja_bs_technikum']}. Ryzyka: {row['ryzyka']}.",

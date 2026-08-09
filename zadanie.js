@@ -61,6 +61,19 @@ function detailSection(title, content, wide = false) {
   `;
 }
 
+function materialListSection(items) {
+  const list = Array.isArray(items) ? items : [];
+  if (!list.length) return "";
+  return `
+    <section class="detail-box wide">
+      <h2>Lista rzeczy do przygotowania</h2>
+      <ul class="materials-list">
+        ${list.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}
+      </ul>
+    </section>
+  `;
+}
+
 function renderNotFound() {
   page.innerHTML = `
     <section class="task-hero">
@@ -88,14 +101,15 @@ function renderTask(item) {
         <span>Czas: ${escapeHtml(item.czas)}</span>
         <span>Grupa: ${escapeHtml(item.optymalna_wielkosc_zespolu)} os.</span>
         <span>Przygotowanie: ${escapeHtml(item.poziom_przygotowania_label)}</span>
-        <span>Co zabrać: ${escapeHtml(item.co_zabrac)}</span>
+        <span>Materiały: konkretna lista poniżej</span>
       </div>
     </section>
 
     <section class="task-content">
+      ${materialListSection(item.lista_potrzebnych_rzeczy)}
       ${fullScenario ? `
         ${detailSection("Instrukcja dla uczniów", item.scenario_instruction, true)}
-        ${detailSection("Materiały", item.scenario_materials)}
+        ${detailSection("Materiały z pełnego scenariusza", item.scenario_materials)}
         ${detailSection("Zwrot akcji", item.scenario_twist)}
         ${detailSection("Karta pracy / zasady gry", item.scenario_worksheet, true)}
         ${detailSection("Przebieg 45 minut", item.scenario_flow, true)}
