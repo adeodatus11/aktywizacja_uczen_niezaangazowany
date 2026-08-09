@@ -2,31 +2,31 @@
 
 ## Cel projektu
 
-Zbudowac baze minimum 100 wartosciowych aktywnosci/mechanizmow na jednorazowe lekcje zastepcze w szkole ponadpodstawowej, szczegolnie dla uczniow branzowej szkoly I stopnia i technikum w wieku 15-19 lat, czesto z niska motywacja szkolna.
+Zbudować bazę minimum 100 wartościowych aktywności/mechanizmów na jednorazowe lekcje zastępcze w szkole ponadpodstawowej, szczególnie dla uczniów branżowej szkoły I stopnia i technikum w wieku 15-19 lat, często z niską motywacją szkolną.
 
-Najwazniejszy filtr: aktywnosc ma byc konkretna misja lub wyzwaniem, ktore konczy sie widocznym efektem, decyzja, wynikiem, rozwiazaniem, konstrukcja, prototypem, umowa, rankingiem, kodem albo testem. Nie zbieramy typowych cwiczen integracyjnych ani aktywnosci opartych glownie na rozmowie.
+Najważniejszy filtr: aktywność ma być konkretną misją lub wyzwaniem, które kończy się widocznym efektem, decyzją, wynikiem, rozwiązaniem, konstrukcją, prototypem, umową, rankingiem, kodem albo testem. Nie zbieramy typowych ćwiczeń integracyjnych ani aktywności opartych głównie na rozmowie.
 
-## Definicja dobrej aktywnosci
+## Definicja dobrej aktywności
 
-Dobra aktywnosc powinna przejsc przynajmniej 4 z 5 warunkow:
+Dobra aktywność powinna przejść przynajmniej 4 z 5 warunków:
 
-1. Cel jest natychmiast zrozumialy.
+1. Cel jest natychmiast zrozumiały.
 2. Powstaje konkretny rezultat.
-3. Kilku uczniow rzeczywiscie musi wspolpracowac.
-4. Da sie ja przeprowadzic w 45 minut.
-5. Istnieje element ciekawosci, ograniczenia, rywalizacji, testu albo niespodzianki.
+3. Kilku uczniów rzeczywiście musi współpracować.
+4. Da się ją przeprowadzić w 45 minut.
+5. Istnieje element ciekawości, ograniczenia, rywalizacji, testu albo niespodzianki.
 
-Aktywnosci spelniajace wszystkie 5 warunkow oznaczamy jako `STRONG CANDIDATE`.
+Aktywności spełniające wszystkie 5 warunków oznaczamy jako `STRONG CANDIDATE`.
 
-## Glowny model aktywnosci
+## Główny model aktywności
 
 Preferowany schemat:
 
 ```text
-WYZWANIE -> DZIALANIE -> KONKRETNY EFEKT -> TEST / POROWNANIE -> WYNIK
+WYZWANIE -> DZIAŁANIE -> KONKRETNY EFEKT -> TEST / PORÓWNANIE -> WYNIK
 ```
 
-Najbardziej pozadane typy:
+Najbardziej pożądane typy:
 
 - konstrukcje i engineering challenges,
 - paper challenges,
@@ -49,49 +49,49 @@ Najbardziej pozadane typy:
 
 ### Etap 1. Przygotowanie struktury bazy
 
-Utworzyc pliki robocze:
+Utworzyć pliki robocze:
 
-- `data/aktywnosci.csv` albo `data/aktywnosci.xlsx` - glowna baza rekordow,
-- `data/zrodla.csv` - lista zrodel i typow inspiracji,
-- `research/notatki_zrodlowe.md` - krotkie notatki z kwerendy,
-- `rankingi/` - pliki z rankingami koncowymi.
+- `data/aktywnosci.csv` albo `data/aktywnosci.xlsx` - główna baza rekordów,
+- `data/zrodla.csv` - lista źródeł i typów inspiracji,
+- `research/notatki_zrodlowe.md` - krótkie notatki z kwerendy,
+- `rankingi/` - pliki z rankingami końcowymi.
 
-Minimalny zestaw pol w bazie:
+Minimalny zestaw pól w bazie:
 
 | Pole | Opis |
 |---|---|
 | `id` | Unikalny identyfikator, np. A001 |
-| `robocza_nazwa` | Krotka nazwa aktywnosci |
+| `robocza_nazwa` | Krótka nazwa aktywności |
 | `krotki_opis` | 2-4 zdania o przebiegu |
-| `glowny_mechanizm` | Schemat aktywnosci, np. ograniczone zasoby -> ranking -> negocjacje |
+| `glowny_mechanizm` | Schemat aktywności, np. ograniczone zasoby -> ranking -> negocjacje |
 | `kategoria` | Jedna lub kilka kategorii |
-| `kompetencje` | Wspolpraca, komunikacja, planowanie, logiczne myslenie itd. |
-| `liczba_osob` | Sugerowana liczba uczestnikow |
-| `optymalna_wielkosc_zespolu` | Najlepiej 3-6 osob |
+| `kompetencje` | Współpraca, komunikacja, planowanie, logiczne myślenie itd. |
+| `liczba_osob` | Sugerowana liczba uczestników |
+| `optymalna_wielkosc_zespolu` | Najlepiej 3-6 osób |
 | `czas` | Docelowo do 45 minut |
-| `materialy` | Tablica, kartki, dlugopisy, wydruk itd. |
+| `materialy` | Tablica, kartki, długopisy, wydruk itd. |
 | `poziom_przygotowania` | 0-2 |
-| `potencjal_zainteresowania` | 1-5, bez zawyzania |
+| `potencjal_zainteresowania` | 1-5, bez zawyżania |
 | `konkretnosc_efektu` | 1-5 |
 | `rzeczywista_wspolpraca` | 1-5 |
 | `grupa_16` | TAK / WARUNKOWO / NIE |
 | `grupa_30` | TAK / WARUNKOWO / NIE |
 | `ryzyko_chaosu` | 1-5 |
 | `zwrot_akcji_mozliwy` | TAK / NIE |
-| `przykladowy_zwrot_akcji` | Np. utrata zasobu, zmiana budzetu, nowa informacja |
-| `odpowiedz_po_co` | 20-sekundowa odpowiedz dla sceptycznego ucznia |
+| `przykladowy_zwrot_akcji` | Np. utrata zasobu, zmiana budżetu, nowa informacja |
+| `odpowiedz_po_co` | 20-sekundowa odpowiedź dla sceptycznego ucznia |
 | `source_type` | Edukacja, biznes, scouting, escape room, assessment center itd. |
-| `zrodlo_inspiracji` | Nazwa zrodla |
-| `url` | Link do zrodla |
-| `adaptacja_bs_technikum` | Jak dostosowac do BS I / technikum |
-| `ryzyka` | Konflikt, zawstydzenie, prywatnosc, wykluczenie |
+| `zrodlo_inspiracji` | Nazwa źródła |
+| `url` | Link do źródła |
+| `adaptacja_bs_technikum` | Jak dostosować do BS I / technikum |
+| `ryzyka` | Konflikt, zawstydzenie, prywatność, wykluczenie |
 | `status` | Kandydat / po selekcji / odrzucone / strong candidate |
 
-### Etap 2. Kwerenda zrodel
+### Etap 2. Kwerenda źródeł
 
-Szukac po polsku i angielsku. Nie ograniczac sie do stron szkolnych; brac mechanizmy z edukacji, biznesu, assessment center, scouting, gier szkoleniowych i escape roomow.
+Szukać po polsku i angielsku. Nie ograniczać się do stron szkolnych; brać mechanizmy z edukacji, biznesu, assessment center, scouting, gier szkoleniowych i escape roomów.
 
-Priorytetowe zrodla i obszary:
+Priorytetowe źródła i obszary:
 
 - Harvard Project Zero / Thinking Routines,
 - Stanford d.school,
@@ -113,43 +113,43 @@ Priorytetowe zrodla i obszary:
 - financial literacy games,
 - vocational education activities.
 
-Przy kazdym zrodle zapisac:
+Przy każdym źródle zapisać:
 
 - link,
-- typ zrodla,
-- jakie mechanizmy sa warte adaptacji,
-- czego nie kopiowac wprost,
-- czy zrodlo daje legalna inspiracje do opracowania wlasnej wersji.
+- typ źródła,
+- jakie mechanizmy są warte adaptacji,
+- czego nie kopiować wprost,
+- czy źródło daje legalną inspirację do opracowania własnej wersji.
 
-### Etap 3. Zbieranie kandydatow
+### Etap 3. Zbieranie kandydatów
 
-Najpierw zebrac szerzej niz docelowe 100 rekordow, np. 140-180 kandydatow. Kazdy kandydat ma byc zapisany jako mechanizm, nie tylko temat.
+Najpierw zebrać szerzej niż docelowe 100 rekordów, np. 140-180 kandydatów. Każdy kandydat ma być zapisany jako mechanizm, nie tylko temat.
 
-Przyklad laczenia wariantow:
+Przykład łączenia wariantów:
 
 ```text
 Bezludna wyspa / katastrofa samolotu / misja na Marsie
-= ograniczone zasoby -> indywidualny ranking -> negocjacje zespolu -> wspolna decyzja -> uzasadnienie -> zwrot akcji
+= ograniczone zasoby -> indywidualny ranking -> negocjacje zespołu -> wspólna decyzja -> uzasadnienie -> zwrot akcji
 ```
 
-Takie warianty laczyc w jeden rekord mechanizmu, a nie mnozyc jako osobne aktywnosci.
+Takie warianty łączyć w jeden rekord mechanizmu, a nie mnożyć jako osobne aktywności.
 
-### Etap 4. Filtr odrzucajacy
+### Etap 4. Filtr odrzucający
 
-Odrzucic aktywnosci, ktore:
+Odrzucić aktywności, które:
 
-- sa infantylne albo wygladaja jak zabawy dla dzieci,
-- opieraja sie glownie na "powiedz cos o sobie", imionach lub autoprezentacji,
-- wymagaja specjalistycznej wiedzy przedmiotowej,
-- wymagaja duzego przygotowania lub sprzetu,
-- maja instrukcje trudna do wyjasnienia w 2-3 minuty,
-- sa ryzykowne pod wzgledem zawstydzenia, prywatnosci lub wykluczenia,
-- przy 30 uczniach latwo wymykaja sie spod kontroli jednego nauczyciela,
-- moga zostac wykonane przez jedna dominujaca osobe, gdy reszta grupy patrzy.
+- są infantylne albo wyglądają jak zabawy dla dzieci,
+- opierają się głównie na "powiedz coś o sobie", imionach lub autoprezentacji,
+- wymagają specjalistycznej wiedzy przedmiotowej,
+- wymagają dużego przygotowania lub sprzętu,
+- mają instrukcję trudną do wyjaśnienia w 2-3 minuty,
+- są ryzykowne pod względem zawstydzenia, prywatności lub wykluczenia,
+- przy 30 uczniach łatwo wymykają się spod kontroli jednego nauczyciela,
+- mogą zostać wykonane przez jedną dominującą osobę, gdy reszta grupy patrzy.
 
 ### Etap 5. Scoring
 
-Dla kazdej aktywnosci policzyc roboczy wynik priorytetu:
+Dla każdej aktywności policzyć roboczy wynik priorytetu:
 
 ```text
 score =
@@ -163,24 +163,24 @@ score =
 - 1 x ryzyko_chaosu
 ```
 
-Wynik nie ma zastapic oceny eksperckiej, tylko pomoc w sortowaniu kandydatow.
+Wynik nie ma zastąpić oceny eksperckiej, tylko pomóc w sortowaniu kandydatów.
 
 ### Etap 6. Kategorie robocze
 
 Startowe kategorie:
 
 - logika i dedukcja,
-- wspolpraca,
+- współpraca,
 - komunikacja,
 - negocjacje,
-- kreatywnosc,
+- kreatywność,
 - projektowanie,
 - podejmowanie decyzji,
-- zycie codzienne,
-- pieniadze i przedsiebiorczosc,
+- życie codzienne,
+- pieniądze i przedsiębiorczość,
 - informacja i fake news,
 - planowanie,
-- problemy spoleczne,
+- problemy społeczne,
 - konstruowanie,
 - zagadki,
 - gry i rywalizacja.
@@ -191,82 +191,82 @@ Dodatkowe kategorie do rozważenia podczas kwerendy:
 - optymalizacja,
 - logistyka,
 - handel i wymiana,
-- awarie i zarzadzanie kryzysem,
+- awarie i zarządzanie kryzysem,
 - komunikacja z ograniczeniami,
 - prototypowanie,
 - test fizyczny.
 
 ### Etap 7. Zwroty akcji
 
-Przy kazdym kandydacie sprawdzic, czy mozna dodac jeden z mechanizmow:
+Przy każdym kandydacie sprawdzić, czy można dodać jeden z mechanizmów:
 
-- zmiana budzetu,
+- zmiana budżetu,
 - ograniczenie czasu,
 - utrata zasobu,
 - nowa informacja,
 - zmiana celu,
-- konflikt interesow,
+- konflikt interesów,
 - dodatkowy klient/interesariusz,
 - nieoczekiwane wydarzenie,
 - awaria,
-- zmiana kryteriow wygranej,
-- zakaz uzycia jednego rozwiazania,
-- koniecznosc wymiany zasobow z innym zespolem.
+- zmiana kryteriów wygranej,
+- zakaz użycia jednego rozwiązania,
+- konieczność wymiany zasobów z innym zespołem.
 
-Zwrot akcji ma wzmacniac zadanie, a nie robic chaos.
+Zwrot akcji ma wzmacniać zadanie, a nie robić chaos.
 
-### Etap 8. Kontrola skalowalnosci
+### Etap 8. Kontrola skalowalności
 
-Kazda aktywnosc musi zostac oceniona dla:
+Każda aktywność musi zostać oceniona dla:
 
-- malej grupy: ok. 16 uczniow, najlepiej 4 zespoly po 4 osoby,
-- duzej grupy: ok. 30 uczniow, najlepiej 5-6 zespolow po 5-6 osob,
-- pracy rownoleglej kilku zespolow,
+- małej grupy: ok. 16 uczniów, najlepiej 4 zespoły po 4 osoby,
+- dużej grupy: ok. 30 uczniów, najlepiej 5-6 zespołów po 5-6 osób,
+- pracy równoległej kilku zespołów,
 - kontroli przez jednego nauczyciela,
 - ryzyka chaosu przy 30 osobach.
 
-Priorytet maja aktywnosci, ktore dzialaja rownolegle w zespolach 4-6 osob i maja prosty, mierzalny wynik.
+Priorytet mają aktywności, które działają równolegle w zespołach 4-6 osób i mają prosty, mierzalny wynik.
 
 ### Etap 9. Weryfikacja i deduplikacja
 
-Po zebraniu kandydatow:
+Po zebraniu kandydatów:
 
-1. Usunac duplikaty.
-2. Polaczyc aktywnosci o tym samym mechanizmie.
-3. Odrzucic rekordy slabiej dopasowane do BS I / technikum.
-4. Oznaczyc `STRONG CANDIDATE`.
-5. Oznaczyc ryzyka.
-6. Zostawic minimum 100 sensownych rekordow.
+1. Usunąć duplikaty.
+2. Połączyć aktywności o tym samym mechanizmie.
+3. Odrzucić rekordy słabiej dopasowane do BS I / technikum.
+4. Oznaczyć `STRONG CANDIDATE`.
+5. Oznaczyć ryzyka.
+6. Zostawić minimum 100 sensownych rekordów.
 
-### Etap 10. Rankingi koncowe
+### Etap 10. Rankingi końcowe
 
-Przygotowac:
+Przygotować:
 
-- TOP 20 najbardziej obiecujacych aktywnosci dla BS I / technikum,
-- TOP 10 bez zadnego przygotowania,
-- TOP 10 najbardziej angazujacych,
-- TOP 10 rozwijajacych wspolprace,
-- TOP 10 rozwijajacych myslenie,
-- TOP 10 wykorzystujacych zwroty akcji.
+- TOP 20 najbardziej obiecujących aktywności dla BS I / technikum,
+- TOP 10 bez żadnego przygotowania,
+- TOP 10 najbardziej angażujących,
+- TOP 10 rozwijających współpracę,
+- TOP 10 rozwijających myślenie,
+- TOP 10 wykorzystujących zwroty akcji.
 
-Kazdy ranking powinien zawierac krotkie uzasadnienie, a nie tylko liste nazw.
+Każdy ranking powinien zawierać krótkie uzasadnienie, a nie tylko listę nazw.
 
-## Kryteria gotowosci pierwszej wersji
+## Kryteria gotowości pierwszej wersji
 
 Pierwsza wersja kwerendy jest gotowa, gdy:
 
-- baza ma minimum 100 rekordow po deduplikacji,
-- kazdy rekord ma wypelnione pola obowiazkowe,
-- kazda aktywnosc miesci sie w 45 minutach,
-- kazda aktywnosc ma jasny konkretny efekt,
-- aktywnosci z duzym ryzykiem chaosu albo zawstydzenia sa oznaczone,
-- TOP 20 zawiera glownie rekordy `STRONG CANDIDATE`,
-- mozna od razu wybrac aktywnosc na zastepstwo bez czytania calej bazy.
+- baza ma minimum 100 rekordów po deduplikacji,
+- każdy rekord ma wypełnione pola obowiązkowe,
+- każda aktywność mieści się w 45 minutach,
+- każda aktywność ma jasny konkretny efekt,
+- aktywności z dużym ryzykiem chaosu albo zawstydzenia są oznaczone,
+- TOP 20 zawiera głównie rekordy `STRONG CANDIDATE`,
+- można od razu wybrać aktywność na zastępstwo bez czytania całej bazy.
 
-## Najblizsze zadania
+## Najbliższe zadania
 
-1. Utworzyc strukture katalogow i puste szablony bazy.
-2. Przygotowac liste zapytan PL/EN do kwerendy.
-3. Zebrac pierwsza pule 30-40 kandydatow z roznorodnych zrodel.
-4. Przetestowac format rekordu na kilku przykladach.
-5. Dopiero potem skalowac baze do 100+ rekordow.
+1. Utworzyć strukturę katalogów i puste szablony bazy.
+2. Przygotować listę zapytań PL/EN do kwerendy.
+3. Zebrać pierwszą pulę 30-40 kandydatów z różnorodnych źródeł.
+4. Przetestować format rekordu na kilku przykładach.
+5. Dopiero potem skalować bazę do 100+ rekordów.

@@ -9,21 +9,21 @@ OUTPUT = ROOT / "site" / "activities.js"
 
 
 CATEGORY_HINTS = {
-    "konstruowanie": "dzialanie techniczne, szybkie prototypowanie i testowanie rozwiazania",
-    "STEM": "eksperymentowanie, mierzenie wyniku i wyciaganie wnioskow z testu",
-    "pieniadze": "podejmowanie decyzji finansowych przy ograniczonych zasobach",
-    "przedsiebiorczosc": "myslenie o koszcie, wartosci, kliencie i sensownosci pomyslu",
-    "negocjacje": "sluchanie interesow, argumentowanie i szukanie warunkow porozumienia",
-    "information gap": "precyzyjna komunikacje, bo nikt nie ma kompletu informacji",
-    "dedukcja": "laczenie poszlak, eliminowanie hipotez i uzasadnianie werdyktu",
-    "escape room": "koncentracje, wspolne rozwiazywanie zagadek i prace pod presja czasu",
-    "planowanie": "priorytetyzacje, przewidywanie ryzyka i reagowanie na zmiane",
-    "projektowanie": "tworzenie rozwiazania dla konkretnego uzytkownika i szybki test",
-    "zycie zawodowe": "organizacje pracy, odpowiedzialnosc za role i jakosc decyzji",
-    "informacja": "ocenianie wiarygodnosci informacji i szukanie dowodow",
-    "fake news": "ostroznosc wobec manipulacji i sprawdzanie przeslanek",
-    "logika": "systematyczne myslenie i prace na ograniczeniach",
-    "gry": "strategie, wynik i uczenie sie przez konsekwencje decyzji",
+    "konstruowanie": "działanie techniczne, szybkie prototypowanie i testowanie rozwiązania",
+    "STEM": "eksperymentowanie, mierzenie wyniku i wyciąganie wniosków z testu",
+    "pieniądze": "podejmowanie decyzji finansowych przy ograniczonych zasobach",
+    "przedsiębiorczość": "myślenie o koszcie, wartości, kliencie i sensowności pomysłu",
+    "negocjacje": "słuchanie interesów, argumentowanie i szukanie warunków porozumienia",
+    "information gap": "precyzyjną komunikację, bo nikt nie ma kompletu informacji",
+    "dedukcja": "łączenie poszlak, eliminowanie hipotez i uzasadnianie werdyktu",
+    "escape room": "koncentrację, wspólne rozwiązywanie zagadek i pracę pod presją czasu",
+    "planowanie": "priorytetyzację, przewidywanie ryzyka i reagowanie na zmianę",
+    "projektowanie": "tworzenie rozwiązania dla konkretnego użytkownika i szybki test",
+    "życie zawodowe": "organizację pracy, odpowiedzialność za role i jakość decyzji",
+    "informacja": "ocenianie wiarygodności informacji i szukanie dowodów",
+    "fake news": "ostrożność wobec manipulacji i sprawdzanie przesłanek",
+    "logika": "systematyczne myślenie i pracę na ograniczeniach",
+    "gry": "strategię, wynik i uczenie się przez konsekwencje decyzji",
 }
 
 
@@ -38,7 +38,7 @@ def practice_sentence(row):
         if token in CATEGORY_HINTS and CATEGORY_HINTS[token] not in hits:
             hits.append(CATEGORY_HINTS[token])
     if not hits:
-        hits = ["wspolprace, decyzje i sprawdzanie pomyslow w praktyce"]
+        hits = ["współpracę, decyzje i sprawdzanie pomysłów w praktyce"]
     if len(hits) == 1:
         return hits[0]
     return ", ".join(hits[:2]) + " oraz " + hits[2] if len(hits) >= 3 else " oraz ".join(hits)
@@ -58,50 +58,50 @@ def chaos_note(value):
     except ValueError:
         level = 3
     if level <= 2:
-        return "Ryzyko chaosu jest niskie. Wystarczy pilnowac czasu i jasnego kryterium wyniku."
+        return "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku."
     if level == 3:
-        return "Ryzyko chaosu jest umiarkowane. Warto ustawic stoly zespolow i jedna kolejke do testu."
-    return "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyc strefy pracy, zasady bezpieczenstwa i sposob testowania."
+        return "Ryzyko chaosu jest umiarkowane. Warto ustawić stoły zespołów i jedną kolejkę do testu."
+    return "Ryzyko chaosu jest wysokie. Przed startem trzeba jasno wyznaczyć strefy pracy, zasady bezpieczeństwa i sposób testowania."
 
 
 def materials(row):
     raw = row["materialy"].strip()
-    if raw.lower() in {"brak", "brak, tylko dostepne przedmioty"}:
+    if raw.lower() in {"brak", "brak, tylko dostępne przedmioty"}:
         return "Nic specjalnego. Wystarczy tablica lub kartka do zapisania wyniku."
     return raw[0].upper() + raw[1:] + "."
 
 
 def group_instruction(row):
     size = row["optymalna_wielkosc_zespolu"]
-    base = f"Najlepiej pracowac w zespolach po {size} osoby."
-    g16 = " Przy 16 uczniach ustaw 4 zespoly."
-    g30 = " Przy 30 uczniach ustaw 5-6 zespolow i trzymaj wspolne testowanie w jednej kolejce."
+    base = f"Najlepiej pracować w zespołach po {size} osoby."
+    g16 = " Przy 16 uczniach ustaw 4 zespoły."
+    g30 = " Przy 30 uczniach ustaw 5-6 zespołów i trzymaj wspólne testowanie w jednej kolejce."
     if row["grupa_30"] == "WARUNKOWO":
-        g30 = " Przy 30 uczniach dziala warunkowo: ogranicz ruch po sali i testuj zespoly po kolei."
+        g30 = " Przy 30 uczniach działa warunkowo: ogranicz ruch po sali i testuj zespoły po kolei."
     return base + g16 + g30
 
 
 def steps(row):
     return [
-        f"Wyjasnij misje i kryterium wyniku: {row['odpowiedz_po_co']}",
-        f"Podziel klase na zespoly i rozdaj materialy: {row['materialy']}.",
-        f"Daj 2-3 minuty na szybki plan. Potem zespoly pracuja wedlug mechanizmu: {row['glowny_mechanizm']}.",
-        "W polowie czasu zapowiedz pozostaly limit. Nie rozwiazuj zadania za zespoly, tylko przypominaj kryterium wyniku.",
-        f"Przeprowadz test, porownanie albo prezentacje efektu. Zapisz wynik i popros o jedno zdanie uzasadnienia.",
+        f"Wyjaśnij misję i kryterium wyniku: {row['odpowiedz_po_co']}",
+        f"Podziel klasę na zespoły i rozdaj materiały: {row['materialy']}.",
+        f"Daj 2-3 minuty na szybki plan. Potem zespoły pracują według mechanizmu: {row['glowny_mechanizm']}.",
+        "W połowie czasu zapowiedz pozostały limit. Nie rozwiązuj zadania za zespoły, tylko przypominaj kryterium wyniku.",
+        f"Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia.",
     ]
 
 
 def enrich(row):
     practice = practice_sentence(row)
     intro = (
-        f"Nie robimy tego jako szkolnego cwiczenia dla samego cwiczenia. "
+        f"Nie robimy tego jako szkolnego ćwiczenia dla samego ćwiczenia. "
         f"Waszym zadaniem jest konkretny wynik: {row['odpowiedz_po_co']} "
-        "Liczy sie decyzja, sposob pracy i to, czy efekt przejdzie sprawdzenie."
+        "Liczy się decyzja, sposób pracy i to, czy efekt przejdzie sprawdzenie."
     )
     teacher_description = (
-        f"{row['krotki_opis']} Nauczyciel prowadzi aktywnosc jako krotka misje z jasnym wynikiem, "
-        "a nie jako rozmowe o wspolpracy. Najpierw uczniowie dostaja ograniczenie, potem dzialaja w zespolach, "
-        "na koncu porownuja rezultat z innymi zespolami albo z ustalonym kryterium."
+        f"{row['krotki_opis']} Nauczyciel prowadzi aktywność jako krótką misję z jasnym wynikiem, "
+        "a nie jako rozmowę o współpracy. Najpierw uczniowie dostają ograniczenie, potem działają w zespołach, "
+        "na końcu porównują rezultat z innymi zespołami albo z ustalonym kryterium."
     )
     return {
         **row,
@@ -109,7 +109,7 @@ def enrich(row):
         "opis_aktywnosci": teacher_description,
         "podprowadzajka": intro,
         "cel_dla_uczniow": row["odpowiedz_po_co"],
-        "co_cwiczy": f"Aktywnosc cwiczy {practice}.",
+        "co_cwiczy": f"Aktywność ćwiczy {practice}.",
         "co_zabrac": materials(row),
         "jak_dzielic": group_instruction(row),
         "proponowany_przebieg": steps(row),
@@ -128,4 +128,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

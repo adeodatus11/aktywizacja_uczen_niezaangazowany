@@ -101,7 +101,7 @@ function filterActivities() {
 
 function render() {
   const filtered = filterActivities();
-  resultCount.textContent = `${filtered.length} z ${activities.length} aktywnosci`;
+  resultCount.textContent = `${filtered.length} z ${activities.length} aktywności`;
   grid.innerHTML = filtered.map(cardTemplate).join("");
 }
 
@@ -116,7 +116,7 @@ function detailTemplate(activity) {
     <p class="dialog-lead">${escapeHtml(activity.opis_aktywnosci)}</p>
     <div class="detail-grid">
       <section class="detail-box wide">
-        <h4>Podprowadzajka dla uczniow</h4>
+        <h4>Podprowadzajka dla uczniów</h4>
         <p>${escapeHtml(activity.podprowadzajka)}</p>
       </section>
       <section class="detail-box">
@@ -124,15 +124,15 @@ function detailTemplate(activity) {
         <p>${escapeHtml(activity.cel_dla_uczniow)}</p>
       </section>
       <section class="detail-box">
-        <h4>Co cwiczy</h4>
+        <h4>Co ćwiczy</h4>
         <p>${escapeHtml(activity.co_cwiczy)}</p>
       </section>
       <section class="detail-box">
-        <h4>Co zabrac</h4>
+        <h4>Co zabrać</h4>
         <p>${escapeHtml(activity.co_zabrac)}</p>
       </section>
       <section class="detail-box">
-        <h4>Jak dzielic klase</h4>
+        <h4>Jak dzielić klasę</h4>
         <p>${escapeHtml(activity.jak_dzielic)}</p>
       </section>
       <section class="detail-box wide">
