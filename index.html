@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Aktywizacja ucznia niezaangazowanego</title>
+    <meta
+      name="description"
+      content="Katalog 100 aktywnosci na lekcje zastepcze dla szkol ponadpodstawowych."
+    />
+    <link rel="icon" href="assets/logos/aktywizacja-logo.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#start" aria-label="Aktywizacja ucznia niezaangazowanego">
+        <img src="assets/logos/aktywizacja-logo.svg" alt="" />
+      </a>
+      <nav class="nav" aria-label="Glowne sekcje">
+        <a href="#katalog">Katalog</a>
+        <a href="#rankingi">Rankingi</a>
+        <a href="#metoda">Metoda</a>
+      </nav>
+    </header>
+
+    <main id="start">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Biblioteka lekcji zastepczych</p>
+          <h1>100 misji, ktore da sie poprowadzic od razu.</h1>
+          <p class="hero-lead">
+            Konkretne aktywnosci dla klas, ktore nie chca kolejnego szkolnego cwiczenia.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#katalog">Przejdz do katalogu</a>
+            <a class="button secondary" href="#rankingi">Zobacz rankingi</a>
+          </div>
+        </div>
+        <div class="hero-panel" aria-label="Podsumowanie katalogu">
+          <div>
+            <span class="metric" id="totalCount">100</span>
+            <span class="metric-label">aktywnosci</span>
+          </div>
+          <div>
+            <span class="metric" id="strongCount">47</span>
+            <span class="metric-label">mocnych kandydatow</span>
+          </div>
+          <div>
+            <span class="metric">45</span>
+            <span class="metric-label">minut maksymalnie</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="method-strip" id="metoda" aria-label="Metoda pracy">
+        <article>
+          <h2>Wyzwanie</h2>
+          <p>Uczen od razu widzi, co ma zrobic i po czym poznac wynik.</p>
+        </article>
+        <article>
+          <h2>Dzialanie</h2>
+          <p>Zespol pracuje na ograniczeniu, materiale, informacji albo budzecie.</p>
+        </article>
+        <article>
+          <h2>Test</h2>
+          <p>Efekt da sie zmierzyc, porownac, obronic albo poprawic.</p>
+        </article>
+      </section>
+
+      <section class="catalog-shell" id="katalog">
+        <div class="catalog-header">
+          <div>
+            <h2>Katalog aktywnosci</h2>
+            <p>Filtruj po kategorii, przygotowaniu, potencjale zainteresowania i trybie pracy.</p>
+          </div>
+          <div class="result-count" id="resultCount" aria-live="polite"></div>
+        </div>
+
+        <form class="filters" id="filters" role="search">
+          <label>
+            <span>Szukaj</span>
+            <input id="searchInput" type="search" autocomplete="off" placeholder="np. budzet, konstrukcja, escape room" />
+          </label>
+          <label>
+            <span>Kategoria</span>
+            <select id="categoryFilter">
+              <option value="">Wszystkie</option>
+            </select>
+          </label>
+          <label>
+            <span>Przygotowanie</span>
+            <select id="prepFilter">
+              <option value="">Dowolne</option>
+              <option value="0">0 - bez przygotowania</option>
+              <option value="1">1 - minimalne</option>
+              <option value="2">2 - niewielkie</option>
+            </select>
+          </label>
+          <label>
+            <span>Minimum hook</span>
+            <select id="hookFilter">
+              <option value="0">Dowolny</option>
+              <option value="3">3+</option>
+              <option value="4">4+</option>
+              <option value="5">5</option>
+            </select>
+          </label>
+          <label>
+            <span>Lista</span>
+            <select id="statusFilter">
+              <option value="">Wszystkie</option>
+              <option value="STRONG CANDIDATE">Strong candidates</option>
+              <option value="Kandydat">Kandydaci</option>
+            </select>
+          </label>
+        </form>
+
+        <div class="quick-filters" aria-label="Szybkie filtry">
+          <button type="button" data-quick="zero">Bez przygotowania</button>
+          <button type="button" data-quick="strong">Strong candidate</button>
+          <button type="button" data-quick="twist">Ze zwrotem akcji</button>
+          <button type="button" data-quick="reset">Wyczysc</button>
+        </div>
+
+        <div class="cards" id="activityGrid"></div>
+      </section>
+
+      <section class="rankings" id="rankingi">
+        <div class="section-title">
+          <h2>Rankingi do szybkiego wyboru</h2>
+          <p>Gotowe listy pomagaja wybrac aktywnosc pod czas, klase i cel lekcji.</p>
+        </div>
+        <div class="ranking-grid">
+          <article>
+            <h3>Najlepsze na start</h3>
+            <ol id="rankTop"></ol>
+          </article>
+          <article>
+            <h3>Bez przygotowania</h3>
+            <ol id="rankZero"></ol>
+          </article>
+          <article>
+            <h3>Najmocniejsza wspolpraca</h3>
+            <ol id="rankCollab"></ol>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <dialog class="activity-dialog" id="activityDialog">
+      <div class="dialog-frame">
+        <button class="close-dialog" type="button" id="closeDialog" aria-label="Zamknij szczegoly">&times;</button>
+        <div id="dialogContent"></div>
+      </div>
+    </dialog>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        <div>
+          <img class="footer-project-logo" src="assets/logos/aktywizacja-logo.svg" alt="Aktywizacja ucznia niezaangazowanego" />
+          <p>Katalog aktywnosci na lekcje zastepcze dla szkol ponadpodstawowych.</p>
+        </div>
+        <div class="footer-logos" aria-label="Logotypy COVE Polska">
+          <img src="assets/logos/cove-polska.png" alt="COVE Polska" />
+        </div>
+      </div>
+    </footer>
+
+    <script src="site/activities.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
