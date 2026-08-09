@@ -2652,7 +2652,7 @@ window.ACTIVITIES = [
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
     "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobierać proste usługi, np. zamówienie jedzenia. Ryzyka: może być zbyt abstrakcyjne.",
-    "scenario_path": "scenariusze/A059_mapa_drogi_zamowienia_bulki.md"
+    "scenario_path": "scenariusze/A059_mapa_drogi_klienta.md"
   },
   {
     "id": "A060",
@@ -3417,7 +3417,7 @@ window.ACTIVITIES = [
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
     "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Pokazać jako narzędzie pracy, nie teoria. Ryzyka: może być suche.",
-    "scenario_path": "scenariusze/A076_sprint_kanban_dzien_otwarty.md"
+    "scenario_path": "scenariusze/A076_sprint_kanban.md"
   },
   {
     "id": "A077",
@@ -3462,7 +3462,7 @@ window.ACTIVITIES = [
       "Przeprowadź test, porównanie albo prezentację efektu. Zapisz wynik i poproś o jedno zdanie uzasadnienia."
     ],
     "bezpieczenstwo_i_uwagi": "Ryzyko chaosu jest niskie. Wystarczy pilnować czasu i jasnego kryterium wyniku. Uwaga adaptacyjna: Dobre dla starszych i technicznych klas. Ryzyka: może wydawac się biurowe.",
-    "scenario_path": "scenariusze/A077_planowanie_pokerem_remont_sali.md"
+    "scenario_path": "scenariusze/A077_planowanie_pokerem.md"
   },
   {
     "id": "A078",

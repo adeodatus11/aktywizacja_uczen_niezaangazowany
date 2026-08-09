@@ -14,7 +14,7 @@ Zebranie materiałów, koncepcji i narzędzi wspierających nauczycieli w pracy 
 - [Rejestr źródeł CSV](data/zrodla.csv)
 - [Notatki źródłowe](research/notatki_zrodlowe.md)
 - [Rankingi](rankingi/TOP.md)
-- [Indeks 80 gotowych scenariuszy](scenariusze/INDEX.md)
+- [Indeks 80 gotowych scenariuszy](scenariusze/index.html)
 
 ## Strona
 

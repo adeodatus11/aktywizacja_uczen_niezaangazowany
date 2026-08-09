@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Gotowe scenariusze | Misje na 45 minut</title>
+    <meta
+      name="description"
+      content="Indeks gotowych scenariuszy lekcji zastępczych z katalogu Misje na 45 minut."
+    />
+    <link rel="stylesheet" href="../styles.css" />
+    <style>
+      .scenario-index {
+        min-height: 100dvh;
+        padding: clamp(32px, 6vw, 72px) clamp(18px, 4vw, 56px);
+      }
+
+      .scenario-index header {
+        max-width: 960px;
+        margin-bottom: 28px;
+      }
+
+      .scenario-index h1 {
+        margin: 0;
+        font-size: clamp(2.6rem, 7vw, 5.4rem);
+        line-height: 0.98;
+      }
+
+      .scenario-index p {
+        max-width: 720px;
+        color: var(--muted);
+        font-size: 1.08rem;
+      }
+
+      .scenario-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 10px;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+
+      .scenario-list a {
+        display: block;
+        min-height: 64px;
+        padding: 13px 14px;
+        border: 1px solid var(--line);
+        border-radius: var(--radius);
+        background: var(--surface);
+        color: var(--accent-dark);
+        font-weight: 900;
+        text-decoration: none;
+      }
+
+      .scenario-list a:hover {
+        border-color: rgba(19, 122, 99, 0.42);
+        background: var(--surface-2);
+      }
+    </style>
+  </head>
+  <body>
+    <main class="scenario-index">
+      <header>
+        <p class="eyebrow">Materiały dla nauczyciela</p>
+        <h1>Gotowe scenariusze</h1>
+        <p id="scenarioCount">Ładowanie listy scenariuszy...</p>
+        <p><a class="scenario-link" href="../index.html">Wróć do katalogu</a></p>
+      </header>
+      <ol class="scenario-list" id="scenarioList"></ol>
+    </main>
+
+    <script src="../site/activities.js"></script>
+    <script>
+      const scenarios = (window.ACTIVITIES || [])
+        .filter((activity) => activity.scenario_path)
+        .sort((a, b) => a.id.localeCompare(b.id, "pl"));
+
+      document.querySelector("#scenarioCount").textContent =
+        `${scenarios.length} gotowych kart do otwarcia lub wydruku.`;
+
+      document.querySelector("#scenarioList").innerHTML = scenarios
+        .map((activity) => {
+          const href = activity.scenario_path.replace(/^scenariusze\//, "");
+          return `<li><a href="${href}">${activity.id} | ${activity.robocza_nazwa}</a></li>`;
+        })
+        .join("");
+    </script>
+  </body>
+</html>
